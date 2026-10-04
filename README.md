@@ -398,7 +398,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Target** | Micromaintenance Tech | Upper Marlboro, MD | 5m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000475477?s=gh-visa-sponsored-jobs-2027) |
+| **Target** | Micromaintenance Tech | Upper Marlboro, MD | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000475477?s=gh-visa-sponsored-jobs-2027) |
 | **Verizon** | Retail Sales Associate | 2812 W Loop 340, Waco, Texas | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-verizon-verizon-careers-R-1098455?s=gh-visa-sponsored-jobs-2027) |
 | **Albertsons** | Retail Sales and Store Support | Hilo, HI, United States | 11h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-albertsons-748558?s=gh-visa-sponsored-jobs-2027) |
 | **AutoZone** | Retail Sales Associate – Part Time | Las Vegas, NV, United States | 11h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-autozone-160574?s=gh-visa-sponsored-jobs-2027) |
@@ -509,8 +509,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Target** | Seasonal  Full Time Hourly Warehouse Operations Openings (T0593) | Shafter, CA | 5m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000447583?s=gh-visa-sponsored-jobs-2027) |
-| **Target** | Seasonal Full Time Hourly Warehouse Operations Openings (T3868) | Hampton, GA | 14h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000447628?s=gh-visa-sponsored-jobs-2027) |
+| **Target** | Seasonal  Full Time Hourly Warehouse Operations Openings (T0593) | Shafter, CA | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000447583?s=gh-visa-sponsored-jobs-2027) |
+| **Target** | Seasonal Full Time Hourly Warehouse Operations Openings (T3868) | Hampton, GA | 15h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000447628?s=gh-visa-sponsored-jobs-2027) |
 | **Target** | Full Time Hourly Warehouse Operations (T0556) | Tifton, GA | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000447562?s=gh-visa-sponsored-jobs-2027) |
 | **SS&C Technologies** | Associate Manager, Financial Services Operations | Kansas City, MO | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ssctech-ssctechnologies-R45905?s=gh-visa-sponsored-jobs-2027) |
 | **Insulet Corporation** | Quality Operations Technician (Weekend Day Shift - Onsite) | Massachusetts | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-insulet-insuletcareers-REQ-2026-18510?s=gh-visa-sponsored-jobs-2027) |
@@ -620,11 +620,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Target** | Seasonal: 4am Inbound (Stocking) (T1448) | Lino Lakes, MN | 5m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000459532?s=gh-visa-sponsored-jobs-2027) |
-| **Target** | Overnight Inbound (Stocking) (T1180) | Greensboro, NC | 5m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000475736?s=gh-visa-sponsored-jobs-2027) |
-| **Target** | Overnight Inbound (Stocking) (T2069) | Durham, NC | 5m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000475730?s=gh-visa-sponsored-jobs-2027) |
-| **Apple** | US - Specialist: Seasonal, Part-time | United States | 11m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-114438158?s=gh-visa-sponsored-jobs-2027) |
-| **Brown & Brown Insurance** | Underwriting Assistant | San Antonio, TX, USA | 26m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000002593?s=gh-visa-sponsored-jobs-2027) |
+| **Target** | Seasonal: 4am Inbound (Stocking) (T1448) | Lino Lakes, MN | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000459532?s=gh-visa-sponsored-jobs-2027) |
+| **Target** | Overnight Inbound (Stocking) (T1180) | Greensboro, NC | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000475736?s=gh-visa-sponsored-jobs-2027) |
+| **Target** | Overnight Inbound (Stocking) (T2069) | Durham, NC | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000475730?s=gh-visa-sponsored-jobs-2027) |
+| **Apple** | US - Specialist: Seasonal, Part-time | United States | 17m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-114438158?s=gh-visa-sponsored-jobs-2027) |
+| **Brown & Brown Insurance** | Underwriting Assistant | San Antonio, TX, USA | 32m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000002593?s=gh-visa-sponsored-jobs-2027) |
 | **Lowe's** | Full Time - Sales Specialist - Flooring - Day | Southern Pines, NC 0538 | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02662497?s=gh-visa-sponsored-jobs-2027) |
 | **Lowe's** | Full Time - Sales Specialist - ProServices - Day | Weaverville, NC 2634 | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02662338?s=gh-visa-sponsored-jobs-2027) |
 | **Highmark Health** | RN Vascular Access Team (VAT) (Full Time 36 Hours), West Penn Hospital | Pittsburgh PA, 15224, West Penn... | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J287824?s=gh-visa-sponsored-jobs-2027) |
