@@ -16,9 +16,9 @@
 <p align="center">🛂 Jobs at US companies that sponsor visas, with H-1B sponsorship track records and positive visa signals. The board refreshes automatically as new sponsors post.</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Visa%20Sponsored%20Jobs-58910-3FB950?style=flat&logo=briefcase" height="30" alt="Visa Sponsored Jobs">
+  <img src="https://img.shields.io/badge/Visa%20Sponsored%20Jobs-58911-3FB950?style=flat&logo=briefcase" height="30" alt="Visa Sponsored Jobs">
   <img src="https://img.shields.io/badge/AI%20%2F%20ML-6731-2F81F7?style=flat&logo=briefcase" height="30" alt="AI / ML">
-  <img src="https://img.shields.io/badge/Companies-580-C79100?style=flat&logo=building" height="30" alt="Companies hiring">
+  <img src="https://img.shields.io/badge/Companies-579-C79100?style=flat&logo=building" height="30" alt="Companies hiring">
   <img src="https://img.shields.io/badge/Updated%20every%2010%20minutes-A371F7?style=flat&logo=clock" height="30" alt="Updated every 10 minutes">
 </p>
 
@@ -113,6 +113,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Parsons** | Systems Engineer | CO, Boulder, R187152 | Date unknown | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-parsons-search-R187152?s=gh-visa-sponsored-jobs-2027) |
 | **ByteDance** | Software Engineer Project Intern (Developer Infrastructure) - 2027 Start | San Jose, California | Date unknown | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/bytedance-7678555814927730949?s=gh-visa-sponsored-jobs-2027) |
 | **Affirm** | Software Engineer II, Backend (Batch Developer Experience) | Remote US | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-affirm-8003028003?s=gh-visa-sponsored-jobs-2027) |
+| **CrowdStrike** | Engineer III, Cloud - Authentication & Authorization (Hybrid) | Sunnyvale, CA | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-crowdstrike-crowdstrikecareers-R29610?s=gh-visa-sponsored-jobs-2027) |
+| **Deluxe Corp** | Software Engineer II (.NET / React) | Atlanta GA 5565 Glenridge... | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-deluxe-usa-can-260865WD?s=gh-visa-sponsored-jobs-2027) |
 | **Parsons** | Software Engineer Co-Op - TS/SCI | VA, Centreville, R187147 | Date unknown | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-parsons-search-R187147?s=gh-visa-sponsored-jobs-2027) |
 | **NVIDIA** | Software Engineer, SRE and Production Engineering - DGX Cloud | CA Santa Clara | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2026802?s=gh-visa-sponsored-jobs-2027) |
 | **NVIDIA** | C++ Software Engineer, Infrastructure Tools - New College Grad 2027 | US, CA, Santa Clara | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2027431?s=gh-visa-sponsored-jobs-2027) |
@@ -160,8 +162,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **University of Maryland** | Electronics Technician II – Building Security Services | University of Maryland College Park | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-umd-umcp-JR104572?s=gh-visa-sponsored-jobs-2027) |
 | **The Mosaic Company** | Azure DevOps Platform Engineer | Tampa, FL | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-mosaic-mosaic-65283?s=gh-visa-sponsored-jobs-2027) |
 | **Allison Transmission** | IT Security Analyst Internship - Summer 2027 | Indianapolis, IN | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-allisontransmission-ati-external-R008295?s=gh-visa-sponsored-jobs-2027) |
-| **Deluxe Corp** | Software Engineer II (.NET / React) | Atlanta GA 5565 Glenridge... | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-deluxe-usa-can-260865WD?s=gh-visa-sponsored-jobs-2027) |
-| **CrowdStrike** | Engineer III, Cloud - Authentication & Authorization (Hybrid) | Sunnyvale, CA | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-crowdstrike-crowdstrikecareers-R29610?s=gh-visa-sponsored-jobs-2027) |
 | **General Mills** | Manufacturing Process Systems Engineer - Hannibal, MO | Hannibal, MO | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-genmills-gmi-external-careers-10125510?s=gh-visa-sponsored-jobs-2027) |
 | **Fidelity Investments** | Software Engineer | Westlake, TX | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-fmr-fidelitycareers-2133271?s=gh-visa-sponsored-jobs-2027) |
 | **Disney** | Product Software Engineer II | New York, NY, USA | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-disney-disneycareer-10160173?s=gh-visa-sponsored-jobs-2027) |
@@ -195,6 +195,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **AMD** | AI Networking System/Solution Test Engineer | Santa Clara, CA, United States | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/amd-88685?s=gh-visa-sponsored-jobs-2027) |
 | **AMD** | CPU Power & Performance Validation Engineer | Folsom, CA, United States | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/amd-92922?s=gh-visa-sponsored-jobs-2027) |
 | **Harbinger Motors** | Electrical Test Engineer | Garden Grove, CA | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-harbingermotors-5262262007?s=gh-visa-sponsored-jobs-2027) |
+| **Johnson Controls** | Electrical Installer | Sioux Falls-South Dakota-United... | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jci-jci-WD30280903?s=gh-visa-sponsored-jobs-2027) |
 | **Stanley Black & Decker** | Project Engineer – Electrical Hardware with BMS focus | Towson, MD, United States | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-sbdinc-stanley-black-decker-career-site-REQ-1000048144?s=gh-visa-sponsored-jobs-2027) |
 | **NVIDIA** | ASIC Clocks Verification Engineer - New College Grad 2026 | US, CA, Santa Clara | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2027579?s=gh-visa-sponsored-jobs-2027) |
 | **NVIDIA** | Hardware Design Validation Engineer - Memory Subsystem - New College Grad 2026 | US, CA, Santa Clara | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2026901?s=gh-visa-sponsored-jobs-2027) |
@@ -214,7 +215,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Applied Materials** | Cleaning, Contamination Control & Validation Engineer E4 | Santa Clara,CA | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-amat-external-R2629488?s=gh-visa-sponsored-jobs-2027) |
 | **Applied Materials** | 2027 Summer Intern - Electrical Engineer - BS/MS Degree, (Santa Clara) | Santa Clara,CA | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-amat-external-R2629428?s=gh-visa-sponsored-jobs-2027) |
 | **Applied Materials** | 2027 Summer Electrical Engineer  Intern (Controls/PCB) - BS or MS (Gloucester, MA) | Gloucester,MA | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-amat-external-R2630658?s=gh-visa-sponsored-jobs-2027) |
-| **Johnson Controls** | Electrical Installer | Sioux Falls-South Dakota-United... | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jci-jci-WD30280903?s=gh-visa-sponsored-jobs-2027) |
 | **Micron Technology** | New College Grad - Yield Enhancement Electrical Failure Analysis Engineer | Boise, ID - ID1 | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-micron-external-JR109479?s=gh-visa-sponsored-jobs-2027) |
 | **Carrier Global** | Electrical Engineering Intern - Summer | CAI19: UTEC-Huntington, 111... | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-carrier-jobs-30219720?s=gh-visa-sponsored-jobs-2027) |
 | **Booz Allen Hamilton** | Electrical Engineer | Kirtland AFB, NM | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0251400?s=gh-visa-sponsored-jobs-2027) |
@@ -299,6 +299,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Bosch Group** | Artificial Intelligence / Machine Learning: Foundation Models - Intern | Sunnyvale, CA | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-BoschGroup-744000154759734?s=gh-visa-sponsored-jobs-2027) |
 | **Apple** | Data Scientist, Audio Telemetry Intelligence | Cupertino | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-200687836?s=gh-visa-sponsored-jobs-2027) |
 | **PingWind** | Data Analyst | Huntsville, AL | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-pingwind-768f5dc6-8a28-4097-8561-36fe4ad7a4da?s=gh-visa-sponsored-jobs-2027) |
+| **Itron** | Intern - People Analytics (Summer 2027) | WA | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-itron-itron-JR103033?s=gh-visa-sponsored-jobs-2027) |
 | **Johnson & Johnson** | Strategic Insight and Analytics Co-Op Off-Cycle (March - August) | Horsham, Pennsylvania, United... | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jj-jj-R-103640?s=gh-visa-sponsored-jobs-2027) |
 | **Thermo Fisher Scientific** | Assoc Research Scientist – qNMR, HPLC, KF | Boston, Massachusetts, USA | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-thermofisher-thermofishercareers-R-01371070?s=gh-visa-sponsored-jobs-2027) |
 | **Thermo Fisher Scientific** | Workforce Analytics Specialist I | Morrisville, North Carolina, USA | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-thermofisher-thermofishercareers-R-01369647?s=gh-visa-sponsored-jobs-2027) |
@@ -314,7 +315,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Autodesk** | Analytics Engineer, Forecasting & Revenue Intelligence | Denver, CO | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-autodesk-ext-26WD101382?s=gh-visa-sponsored-jobs-2027) |
 | **Abbott** | Associate Research Scientist II | United States > Madison : 501... | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abbott-abbottcareers-31163974?s=gh-visa-sponsored-jobs-2027) |
 | **Amgen** | Data Scientist | United States - Remote | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-amgen-careers-R-257589?s=gh-visa-sponsored-jobs-2027) |
-| **Itron** | Intern - People Analytics (Summer 2027) | WA | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-itron-itron-JR103033?s=gh-visa-sponsored-jobs-2027) |
 | **Merck & Co.** | Associate Scientist Biologics Drug Substance Commercialization Analytics Lab Lead | USA - Pennsylvania - West Point | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-msd-searchjobs-R419864?s=gh-visa-sponsored-jobs-2027) |
 | **CACI** | Data Scientist | Tampa, FL, US | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-caci-external-330984?s=gh-visa-sponsored-jobs-2027) |
 | **Capital One** | Data Analysis Manager - Analytics & Transformation | McLean, VA | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-capitalone-capital-one-R248275?s=gh-visa-sponsored-jobs-2027) |
@@ -338,6 +338,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Roblox** | \[2027\] Senior Machine Learning Engineer - PhD Early Career | San Mateo, CA, United States | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-roblox-8242623?s=gh-visa-sponsored-jobs-2027) |
 | **GenBio AI** | Research Scientist Intern, AI Molecular Design | Palo Alto, CA | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-genbio-7d0b5764-48ce-4d06-93d2-431742d35604?s=gh-visa-sponsored-jobs-2027) |
 | **Cisco** | Data Scientist | RTP, North Carolina, US | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cisco-cisco-careers-2027450?s=gh-visa-sponsored-jobs-2027) |
+| **NREL** | Postdoctoral Researcher – Vision Machine Learning | Golden, CO | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nrel-nlr-R14557?s=gh-visa-sponsored-jobs-2027) |
 | **Philips** | Research Scientist - Computed Tomography (Orange, OH) | Orange OH Ohio United States | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-philips-jobs-and-careers-586925?s=gh-visa-sponsored-jobs-2027) |
 | **Trane Technologies** | Digital Marketing Data Analyst | Davidson, North Carolina | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-tranetechnologies-trane-technologies-car-JR-14112?s=gh-visa-sponsored-jobs-2027) |
 | **CVS Health** | Medicare Business Analytics Corporate Internship – Summer 2027 (Undergraduate) | CT - Hartford | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1052378?s=gh-visa-sponsored-jobs-2027) |
@@ -345,7 +346,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Leidos** | Transportation Data Scientist (AI Solutions) | McLean, VA | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-leidos-external-R-00186131?s=gh-visa-sponsored-jobs-2027) |
 | **Applied Materials** | 2027 Data Analytics & Business Operations Spring Co-Op or Summer Intern- Bachelor's/Master's... | Austin,TX | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-amat-external-R2626381?s=gh-visa-sponsored-jobs-2027) |
 | **Prudential Financial** | Associate, Portfolio Analytics   PGIM Strategic Capital Group (Hybrid / Newark, NJ) | Newark, NJ, USA | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pru-careers-R-125158?s=gh-visa-sponsored-jobs-2027) |
-| **NREL** | Postdoctoral Researcher – Vision Machine Learning | Golden, CO | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nrel-nlr-R14557?s=gh-visa-sponsored-jobs-2027) |
 | **Disney** | Associate Marketing Data Scientist | Celebration, FL, USA | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-disney-disneycareer-10161936?s=gh-visa-sponsored-jobs-2027) |
 | **Guidehouse** | Epidemiologist Data Scientist | TX San Antonio | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-guidehouse-external-43108?s=gh-visa-sponsored-jobs-2027) |
 | **Guidehouse** | Financial Management (FM) Palantir Data Management Data Analyst | VA, McLean | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-guidehouse-external-45382?s=gh-visa-sponsored-jobs-2027) |
@@ -398,17 +398,17 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Lowe's** | Full Time - Sales Associate - Paint - Day | Silverthorne, CO 3206 | 8m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02676493?s=gh-visa-sponsored-jobs-2027) |
+| **Lowe's** | Full Time - Sales Associate - Paint - Day | Silverthorne, CO 3206 | 17m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02676493?s=gh-visa-sponsored-jobs-2027) |
 | **AutoZone** | Retail Sales Associate – Part Time | North Conway, NH, United States | 13h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-autozone-164018?s=gh-visa-sponsored-jobs-2027) |
 | **AutoZone** | Retail Sales Associate – Part Time | Gloucester, MA, United States | 13h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-autozone-164019?s=gh-visa-sponsored-jobs-2027) |
 | **AutoZone** | Retail Sales Associate – Part Time | Fort Wayne, IN, United States | 13h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-autozone-164021?s=gh-visa-sponsored-jobs-2027) |
 | **Lowe's** | Part Time - Fulfillment Associate - Flexible | Pineville, LA 2965 | 16h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02676344?s=gh-visa-sponsored-jobs-2027) |
 | **Lowe's** | Full Time - Fulfillment Associate - Day | Princeton, NJ (W Windsor) 1185 | 16h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02676343?s=gh-visa-sponsored-jobs-2027) |
+| **Wex** | Software Development Engineer 3- AI & Agentic Systems | Portland, ME | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-wexinc-wexinc-R22626?s=gh-visa-sponsored-jobs-2027) |
 | **T-Mobile** | Mobile Associate - Retail Sales, Bilingual, Spanish | Elizabeth, New Jersey | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-tmobile-external-REQ378345?s=gh-visa-sponsored-jobs-2027) |
 | **T-Mobile** | Mobile Associate - Retail Sales, Bilingual, Spanish | North Bergen, New Jersey | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-tmobile-external-REQ378332?s=gh-visa-sponsored-jobs-2027) |
 | **T-Mobile** | Mobile Associate - Retail Sales | Brick Township, New Jersey | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-tmobile-external-REQ376008?s=gh-visa-sponsored-jobs-2027) |
 | **Live Nation** | Runner - The Fillmore (Part-time) | San Francisco, CA, USA | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-livenation-lnexternalsite-JR-93661?s=gh-visa-sponsored-jobs-2027) |
-| **Wex** | Software Development Engineer 3- AI & Agentic Systems | Portland, ME | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-wexinc-wexinc-R22626?s=gh-visa-sponsored-jobs-2027) |
 | **Jabil** | Industrial Engineering NPI Trainer II : CVG200 : 402 | Florence, KY | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jabil-jabil-careers-J2463370?s=gh-visa-sponsored-jobs-2027) |
 | **General Motors** | 2027 Summer Intern, SEAM, Embodied AI | Sunnyvale, California, United... | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202622143?s=gh-visa-sponsored-jobs-2027) |
 | **General Motors** | Business Manager - Maintenance | Rochester, New York, United... | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202621676?s=gh-visa-sponsored-jobs-2027) |
@@ -447,6 +447,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Western Digital** | Customer Failure Analysis Engineer | San Jose, CA | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-WesternDigital-744000154725809?s=gh-visa-sponsored-jobs-2027) |
 | **SpaceX** | Industrial Paint Technician (Starship Launch Hardware) | Cape Canaveral, FL | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-spacex-8879389002?s=gh-visa-sponsored-jobs-2027) |
 | **NBCUniversal** | Maintenance Facility Coordinator | Universal City, CALIFORNIA | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-NBCUniversal3-744000154691964?s=gh-visa-sponsored-jobs-2027) |
+| **Analog Devices** | Wafer Fab Operator - All shifts available | US, WA, Camas | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-analogdevices-external-R258306?s=gh-visa-sponsored-jobs-2027) |
+| **Itron** | Intern - HR AI Data Science (Summer 2027) | TX | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-itron-itron-JR103034?s=gh-visa-sponsored-jobs-2027) |
 | **Oshkosh Corporation** | Locksmith: Airport Services - IAH International Airport | Houston, Texas, United States | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-oshkoshcorporation-oshkosh-R51055?s=gh-visa-sponsored-jobs-2027) |
 | **Oshkosh Corporation** | Maintenance Repair Technician Level 1: Airport Services - Salt Lake International Airport | Salt Lake City, Utah, United States | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-oshkoshcorporation-oshkosh-R51047?s=gh-visa-sponsored-jobs-2027) |
 | **Oshkosh Corporation** | Paint Prep | Jefferson City, Tennessee,... | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-oshkoshcorporation-oshkosh-R50975?s=gh-visa-sponsored-jobs-2027) |
@@ -494,10 +496,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Avis Budget Group** | Car Detailer - PT | LaGuardia Airport | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-avisbudget-abg-careers-R0184540?s=gh-visa-sponsored-jobs-2027) |
 | **ABB** | Maintenance Specialist 1st Shift | Pinetops, North Carolina,... | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abb-external-career-page-JR00048839?s=gh-visa-sponsored-jobs-2027) |
 | **Arrow Electronics** | Microsoft AI Engineer - CCoE, NA | CO Colorado Employees | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-arrow-ac-R247171?s=gh-visa-sponsored-jobs-2027) |
-| **Analog Devices** | Wafer Fab Operator - All shifts available | US, WA, Camas | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-analogdevices-external-R258306?s=gh-visa-sponsored-jobs-2027) |
 | **Amentum** | Aircraft Mechanic - Customs and Border Protection | TX-San Angelo | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0172833?s=gh-visa-sponsored-jobs-2027) |
 | **Amentum** | Aircraft Mechanic - Customs and Border Protection | TX-McAllen | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0172832?s=gh-visa-sponsored-jobs-2027) |
-| **Amentum** | Aircraft Mechanic | TX-Corpus Christi | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0172831?s=gh-visa-sponsored-jobs-2027) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -541,9 +541,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Wellmark, Inc.** | Sales Operations Consultant | Des Moines, IA | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-WellmarkInc-744000154697154?s=gh-visa-sponsored-jobs-2027) |
 | **Eurofins** | Laboratory Operations Technician | Columbia, MO | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Eurofins-744000154697790?s=gh-visa-sponsored-jobs-2027) |
 | **CACI** | Program Operations Specialist | Remote | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-caci-external-333324?s=gh-visa-sponsored-jobs-2027) |
-| **SpaceX** | Critical Lift & Transport Technician (Transport Operations) - Night Shift | Cape Canaveral, FL | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-spacex-8881372002?s=gh-visa-sponsored-jobs-2027) |
-| **SpaceX** | Critical Lift & Transport Technician (Transport Operations) - Day Shift | Cape Canaveral, FL | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-spacex-8881375002?s=gh-visa-sponsored-jobs-2027) |
-| **SpaceX** | Critical Lift & Transport Technician (Crane Operations) - Day Shift | Cape Canaveral, FL | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-spacex-8881382002?s=gh-visa-sponsored-jobs-2027) |
+| **SpaceX** | Critical Lift & Transport Technician (Transport Operations) - Night Shift | Cape Canaveral, FL | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-spacex-8881372002?s=gh-visa-sponsored-jobs-2027) |
+| **SpaceX** | Critical Lift & Transport Technician (Transport Operations) - Day Shift | Cape Canaveral, FL | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-spacex-8881375002?s=gh-visa-sponsored-jobs-2027) |
+| **SpaceX** | Critical Lift & Transport Technician (Crane Operations) - Day Shift | Cape Canaveral, FL | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-spacex-8881382002?s=gh-visa-sponsored-jobs-2027) |
+| **Wex** | Digital Customer Success Manager | Remote | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-wexinc-wexinc-R23110?s=gh-visa-sponsored-jobs-2027) |
 | **HP Inc** | Field Service Engineer | Alpharetta, Georgia, United... | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hp-externalcareersite-3162487?s=gh-visa-sponsored-jobs-2027) |
 | **Caterpillar** | Industrial Generator Field Service Technician 1 | Fort Worth Texas | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cat-caterpillarcareers-R0000394908?s=gh-visa-sponsored-jobs-2027) |
 | **Caterpillar** | Digital Program Manager | Chicago Illinois | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cat-caterpillarcareers-R0000398594?s=gh-visa-sponsored-jobs-2027) |
@@ -583,7 +584,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Wolters Kluwer** | Customer Success Associate | USA - Columbus, OH | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-wk-external-R0060329?s=gh-visa-sponsored-jobs-2027) |
 | **Wolters Kluwer** | Customer Success Associate, Business Licensing | USA - Clayton, MO | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-wk-external-R0060417?s=gh-visa-sponsored-jobs-2027) |
 | **Generac** | Operations Strategy & Transformation Intern | Waukesha, WI - USA | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-generac-external-JR17275?s=gh-visa-sponsored-jobs-2027) |
-| **Wex** | Digital Customer Success Manager | Remote | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-wexinc-wexinc-R23110?s=gh-visa-sponsored-jobs-2027) |
 | **Hitachi** | Field Service Engineer | Mount Pleasant, Pennsylvania,... | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hitachi-hitachi-R0147630?s=gh-visa-sponsored-jobs-2027) |
 | **Mastercard** | Specialist, B2B Marketing Operations | Purchase, New York | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-mastercard-corporatecareers-R-291801?s=gh-visa-sponsored-jobs-2027) |
 | **Merck & Co.** | Operations Technician (TCP) | USA - Delaware - Millsboro | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-msd-searchjobs-R422024?s=gh-visa-sponsored-jobs-2027) |
@@ -620,10 +620,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Lowe's** | Part Time - Loader/Cart Associate - Flexible | Glen Allen, VA (Short Pump) 0687 | 8m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02676488?s=gh-visa-sponsored-jobs-2027) |
-| **Lowe's** | Part Time - Receiver/Stocker - Flexible | Glen Allen, VA (Short Pump) 0687 | 8m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02676490?s=gh-visa-sponsored-jobs-2027) |
-| **LabCorp** | Histotechnician | Seattle WA | 8m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2636013?s=gh-visa-sponsored-jobs-2027) |
-| **Apple** | US - Specialist: Seasonal, Part-time | United States | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-114438158?s=gh-visa-sponsored-jobs-2027) |
+| **Apple** | US - Specialist: Seasonal, Part-time | United States | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-114438158?s=gh-visa-sponsored-jobs-2027) |
+| **Lowe's** | Part Time - Loader/Cart Associate - Flexible | Glen Allen, VA (Short Pump) 0687 | 17m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02676488?s=gh-visa-sponsored-jobs-2027) |
+| **Lowe's** | Part Time - Receiver/Stocker - Flexible | Glen Allen, VA (Short Pump) 0687 | 17m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02676490?s=gh-visa-sponsored-jobs-2027) |
+| **LabCorp** | Histotechnician | Seattle WA | 17m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2636013?s=gh-visa-sponsored-jobs-2027) |
 | **Target** | B2 Backup Yard Coordinator | Fridley, MN | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000476860?s=gh-visa-sponsored-jobs-2027) |
 | **Target** | Starbucks Barista (T1448) | Lino Lakes, MN | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000475741?s=gh-visa-sponsored-jobs-2027) |
 | **CVS Health** | Pharmacy Technician Front End | RI - Coventry | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R0939029?s=gh-visa-sponsored-jobs-2027) |
@@ -639,19 +639,19 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **GDIT** | Systems Technician - TS/SCI with Polygraph | USA VA Reston | 9h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ230281?s=gh-visa-sponsored-jobs-2027) |
 | **AMD** | 2027 Masters Thermal Engineering Intern/Co-Op | Austin, TX, United States | 9h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/amd-93646?s=gh-visa-sponsored-jobs-2027) |
 | **AMD** | 2027 Masters Thermal Engineering Intern/Co-Op | Santa Clara, CA, United States | 9h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/amd-93645?s=gh-visa-sponsored-jobs-2027) |
-| **Albertsons** | Front End Entry Level | Borger, TX, United States | 13h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-albertsons-778757?s=gh-visa-sponsored-jobs-2027) |
-| **Albertsons** | Line Cook (Prep Cook) | Borger, TX, United States | 13h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-albertsons-778756?s=gh-visa-sponsored-jobs-2027) |
-| **Albertsons** | In-Store Shopper | Belgrade, MT, United States | 13h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-albertsons-778758?s=gh-visa-sponsored-jobs-2027) |
+| **Kroger** | Grocery Clerk | Herriman, UT, United States | 13h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-kroger-224968?s=gh-visa-sponsored-jobs-2027) |
+| **Kroger** | SEAFOOD/CLERK | Anchorage, AK, United States | 13h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-kroger-236748?s=gh-visa-sponsored-jobs-2027) |
 | **AutoZone** | Part Sales Manager – Full Time | Raymond, NH, United States | 13h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-autozone-164017?s=gh-visa-sponsored-jobs-2027) |
 | **AutoZone** | Part Sales Manager – Full Time | Indianapolis, IN, United States | 13h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-autozone-164025?s=gh-visa-sponsored-jobs-2027) |
 | **AutoZone** | Part Sales Manager – Full Time | Indianapolis, IN, United States | 13h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-autozone-164024?s=gh-visa-sponsored-jobs-2027) |
+| **Albertsons** | Front End Entry Level | Borger, TX, United States | 13h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-albertsons-778757?s=gh-visa-sponsored-jobs-2027) |
+| **Albertsons** | Line Cook (Prep Cook) | Borger, TX, United States | 13h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-albertsons-778756?s=gh-visa-sponsored-jobs-2027) |
+| **Albertsons** | In-Store Shopper | Belgrade, MT, United States | 13h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-albertsons-778758?s=gh-visa-sponsored-jobs-2027) |
+| **Kohl's** | Seasonal Beauty Advisor - Sephora | Belton, Missouri | 13h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-kohl-s-R503852?s=gh-visa-sponsored-jobs-2027) |
 | **Kohl's** | Seasonal Beauty Advisor - Sephora | University Park, Florida | 13h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-kohl-s-R505440?s=gh-visa-sponsored-jobs-2027) |
 | **Kohl's** | Seasonal Beauty Advisor - Sephora | Bedford Hills, New York | 13h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-kohl-s-R504748?s=gh-visa-sponsored-jobs-2027) |
-| **Kohl's** | Seasonal Beauty Advisor - Sephora | Salem, New Hampshire | 13h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-kohl-s-R504928?s=gh-visa-sponsored-jobs-2027) |
 | **Cisco** | Executive Assistant: VP, Customer Experience Product Management (Hybrid) | San Jose, California | 13h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-cisco-2026294?s=gh-visa-sponsored-jobs-2027) |
 | **University of Miami** | Registered Nurse, Head/Neck & PCU, Full-time | Miami, Florida | 13h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-university-of-miami-R100073859?s=gh-visa-sponsored-jobs-2027) |
-| **Kroger** | Grocery Clerk | Herriman, UT, United States | 13h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-kroger-224968?s=gh-visa-sponsored-jobs-2027) |
-| **Kroger** | SEAFOOD/CLERK | Anchorage, AK, United States | 13h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-kroger-236748?s=gh-visa-sponsored-jobs-2027) |
 | **Kroger** | FRONT END/CASHIER | Cincinnati, OH, United States | 13h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-kroger-238896?s=gh-visa-sponsored-jobs-2027) |
 | **Ecolab** | Production Technician I | Kennesaw, Georgia | 13h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ecolab-R00303564?s=gh-visa-sponsored-jobs-2027) |
 | **University of Miami** | Post Doctoral Associate | Miami, Florida | 13h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-university-of-miami-R100101995?s=gh-visa-sponsored-jobs-2027) |
@@ -660,8 +660,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Apple** | Human Factors Engineer-ARC | Cupertino | 13h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-200688368?s=gh-visa-sponsored-jobs-2027) |
 | **Red Bull** | Student Marketeer - University of Houston | Houston, TX | 18h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-RedBull-744000154837729?s=gh-visa-sponsored-jobs-2027) |
 | **Red Bull** | Talent Acquisition Partner (Marketing) | Santa Monica, CA | 19h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-RedBull-744000154835839?s=gh-visa-sponsored-jobs-2027) |
-| **Starbucks** | machine operator, Coffee 3rd shift | 18411 | 20h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/starbucks-260028876?s=gh-visa-sponsored-jobs-2027) |
+| **Starbucks** | machine operator, Coffee 3rd shift | 18411 | 21h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/starbucks-260028876?s=gh-visa-sponsored-jobs-2027) |
 | **Apple** | Wi-Fi Certification Quality Engineer, Wireless Technologies & Ecosystems | Cupertino | 21h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-200688169?s=gh-visa-sponsored-jobs-2027) |
+| **Hitachi** | Global Product Specialist Automation-Digital Power Conversion Solutions | Raleigh, North Carolina, United... | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hitachi-hitachi-R0146458?s=gh-visa-sponsored-jobs-2027) |
+| **Analog Devices** | Associate Digital Design Engineer | CA San Jose Rio Robles | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-analogdevices-external-R265286?s=gh-visa-sponsored-jobs-2027) |
 | **Caterpillar** | Environmental EHS Manager | Mapleton, Illinois | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cat-caterpillarcareers-R0000399591?s=gh-visa-sponsored-jobs-2027) |
 | **LabCorp** | Phlebotomist | Newport Beach CA | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2620786?s=gh-visa-sponsored-jobs-2027) |
 | **LabCorp** | Phlebotomist | Torrance CA | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2618550?s=gh-visa-sponsored-jobs-2027) |
@@ -676,14 +678,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Wells Fargo** | Bankruptcy Manager | IRVING, TX | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-wf-wellsfargojobs-R-580981?s=gh-visa-sponsored-jobs-2027) |
 | **Wells Fargo** | Personal Banker Bilingual Preferred Russian Speaker-Hallandale Beach FL | HALLANDALE BEACH, FL | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-wf-wellsfargojobs-R-579376?s=gh-visa-sponsored-jobs-2027) |
 | **Wells Fargo** | Personal Banker - Seventh Avenue Branch-Miami, FL | MIAMI, FL | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-wf-wellsfargojobs-R-580471?s=gh-visa-sponsored-jobs-2027) |
-| **Analog Devices** | Associate Digital Design Engineer | CA San Jose Rio Robles | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-analogdevices-external-R265286?s=gh-visa-sponsored-jobs-2027) |
 | **Amentum** | Helicopter Pilot (Instructor) | AL-Fort Rucker | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0166110?s=gh-visa-sponsored-jobs-2027) |
 | **Amentum** | Helicopter Pilot (Instructor) | AL-Fort Rucker | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0166109?s=gh-visa-sponsored-jobs-2027) |
 | **Amentum** | Data Engineer | TX-Houston | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0170371?s=gh-visa-sponsored-jobs-2027) |
 | **Fresenius Medical Care** | Clinical Coordinator - Charge Registered Nurse - Dialysis | FL081 Florida Kidney | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0272842?s=gh-visa-sponsored-jobs-2027) |
 | **Altera** | Full Chip Timing Modeling and Integration Engineer | San Jose, California, United States | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-altera-altera-R03228?s=gh-visa-sponsored-jobs-2027) |
 | **Wolters Kluwer** | Content Editing Associate | Waltham, MA | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-wk-external-R0060182?s=gh-visa-sponsored-jobs-2027) |
-| **Hitachi** | Global Product Specialist Automation-Digital Power Conversion Solutions | Raleigh, North Carolina, United... | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hitachi-hitachi-R0146458?s=gh-visa-sponsored-jobs-2027) |
 | **Marvell** | Test Solutions Engineering Intern, BS - Summer 2027 | Burlington, VT | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-marvell-marvellcareers-2603835?s=gh-visa-sponsored-jobs-2027) |
 | **Cardinal Health** | Warehouse Associate - Weekend Shift | TX - Fort Worth - CAH-Home... | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cardinalhealth-ext-20188757?s=gh-visa-sponsored-jobs-2027) |
 | **Brown & Brown Insurance** | Audit Reviewer | San Diego, CA, USA | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000002884?s=gh-visa-sponsored-jobs-2027) |
@@ -799,7 +799,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 58910 current opportunities from 580 companies**
+**🎯 58911 current opportunities from 579 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
