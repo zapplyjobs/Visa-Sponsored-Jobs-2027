@@ -16,8 +16,8 @@
 <p align="center">🛂 Jobs at US companies that sponsor visas, with H-1B sponsorship track records and positive visa signals. The board refreshes automatically as new sponsors post.</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Visa%20Sponsored%20Jobs-57050-3FB950?style=flat&logo=briefcase" height="30" alt="Visa Sponsored Jobs">
-  <img src="https://img.shields.io/badge/AI%20%2F%20ML-7019-2F81F7?style=flat&logo=briefcase" height="30" alt="AI / ML">
+  <img src="https://img.shields.io/badge/Visa%20Sponsored%20Jobs-57054-3FB950?style=flat&logo=briefcase" height="30" alt="Visa Sponsored Jobs">
+  <img src="https://img.shields.io/badge/AI%20%2F%20ML-7021-2F81F7?style=flat&logo=briefcase" height="30" alt="AI / ML">
   <img src="https://img.shields.io/badge/Companies-561-C79100?style=flat&logo=building" height="30" alt="Companies hiring">
   <img src="https://img.shields.io/badge/Updated%20every%2010%20minutes-A371F7?style=flat&logo=clock" height="30" alt="Updated every 10 minutes">
 </p>
@@ -134,13 +134,13 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Target** | Target Security Specialist | Stoneham, MA | 8h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000477786?s=gh-visa-sponsored-jobs-2027) |
 | **Target** | Target Security Specialist | Canton, MI | 8h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000477647?s=gh-visa-sponsored-jobs-2027) |
 | **Target** | Target Security Specialist | Staten Island, NY | 8h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000477771?s=gh-visa-sponsored-jobs-2027) |
-| **Apple** | Software Engineer, Internal Tools - Media, Graphics & Compute Tech | San Diego Metro Area | 8h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-200689896?s=gh-visa-sponsored-jobs-2027) |
+| **Apple** | Software Engineer, Internal Tools - Media, Graphics & Compute Tech | San Diego Metro Area | 9h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-200689896?s=gh-visa-sponsored-jobs-2027) |
 | **OpenAI** | Software Engineer, Full Stack — Dots | New York City | 9h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-openai-dbe79b89-e593-44b3-8aec-c667f7134445?s=gh-visa-sponsored-jobs-2027) |
 | **OpenAI** | Software Engineer, Mobile Web — Dots | New York City | 9h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-openai-3b34eb10-25b0-4a97-bd6d-05fc90ad4981?s=gh-visa-sponsored-jobs-2027) |
 | **OpenAI** | Model Policy Manager, National Security | San Francisco | 9h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-openai-230d7d77-133e-4b87-a7a4-3e8d4e9fdab3?s=gh-visa-sponsored-jobs-2027) |
 | **Carnegie Mellon University** | AI Security Software Engineer Intern – Summer 2027 | Pittsburgh, PA | 9h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cmu-cmu-2025200?s=gh-visa-sponsored-jobs-2027) |
 | **Apple** | Cellular Power Systems Engineer | San Diego | 9h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-200689311?s=gh-visa-sponsored-jobs-2027) |
-| **Apple** | Cellular Power Systems Engineer | San Diego | 9h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-200688522?s=gh-visa-sponsored-jobs-2027) |
+| **Apple** | Cellular Power Systems Engineer | San Diego | 10h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-200688522?s=gh-visa-sponsored-jobs-2027) |
 | **Microsoft** | Software Engineer - Forward Deployed Engineer | Redmond, Washington, United States | 10h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200060976?s=gh-visa-sponsored-jobs-2027) |
 | **Microsoft** | Software Engineer II | Redmond, Washington, United States | 11h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200061107?s=gh-visa-sponsored-jobs-2027) |
 | **Citi** | Java Developer, Equities Trading, Assistant Vice President | Tampa Florida United States | 11h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-citi-2-26998233?s=gh-visa-sponsored-jobs-2027) |
@@ -203,7 +203,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **SpaceX** | Mechanical Integration & Test Engineer, User Products (Starshield) | Hawthorne, CA | 12h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-spacex-8884556002?s=gh-visa-sponsored-jobs-2027) |
 | **Schweitzer Engineering Laboratories** | Electrical Engineering Intern | Washington - Pullman | Date unknown | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-selinc-sel-2026-23738?s=gh-visa-sponsored-jobs-2027) |
 | **RTX** | Manufacturing Test Engineer (On-site) | CT-WINDSOR LOCKS-B1 | 12h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01881837?s=gh-visa-sponsored-jobs-2027) |
-| **DoorDash** | Radio Frequency Hardware Engineer - DoorDash Air | San Francisco, CA | 15h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-doordashusa-8289376?s=gh-visa-sponsored-jobs-2027) |
+| **DoorDash** | Radio Frequency Hardware Engineer - DoorDash Air | San Francisco, CA | 16h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-doordashusa-8289376?s=gh-visa-sponsored-jobs-2027) |
 | **SpaceX** | Wifi & RF Compliance Test Engineer (Starlink) | Bastrop, TX | 18h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-spacex-8892607002?s=gh-visa-sponsored-jobs-2027) |
 | **DoorDash** | Electrical Engineer - DoorDash Air | San Francisco, CA | 18h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-doordashusa-8288985?s=gh-visa-sponsored-jobs-2027) |
 | **DoorDash** | Electrical Engineer - Consumer Electronics | San Francisco, CA | 18h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-doordashusa-8288972?s=gh-visa-sponsored-jobs-2027) |
@@ -302,7 +302,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Ameriprise Financial** | Actuarial Intern | Minneapolis, Minnesota | 4h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ameriprise-ameriprise-R26_3572?s=gh-visa-sponsored-jobs-2027) |
 | **Salesforce** | Digital Success Analytics Engineer | Texas - Austin | 4h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-salesforce-external-career-site-JR362928?s=gh-visa-sponsored-jobs-2027) |
 | **Menasha Corporation** | Master Data Analyst | Oconomowoc, Wisconsin | 5h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-menasha-menashacorp-R16353?s=gh-visa-sponsored-jobs-2027) |
-| **Lyft** | Data Analyst | New York, NY | 5h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-lyft-8896685002?s=gh-visa-sponsored-jobs-2027) |
+| **Lyft** | Data Analyst | New York, NY | 6h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-lyft-8896685002?s=gh-visa-sponsored-jobs-2027) |
 | **Lyft** | Data Scientist | New York, NY | 6h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-lyft-8896675002?s=gh-visa-sponsored-jobs-2027) |
 | **Lyft** | Data Scientist | San Francisco, CA | 6h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-lyft-8896671002?s=gh-visa-sponsored-jobs-2027) |
 | **Guidehouse** | Financial Investigations Data Scientist | DC Washington | 6h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-guidehouse-external-45441?s=gh-visa-sponsored-jobs-2027) |
@@ -620,7 +620,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Apple** | US - Specialist: Seasonal, Part-time | United States | 18m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-114438158?s=gh-visa-sponsored-jobs-2027) |
+| **Apple** | US - Specialist: Seasonal, Part-time | United States | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-114438158?s=gh-visa-sponsored-jobs-2027) |
 | **Generac** | Assembler I-10 | Holdrege, NE - USA | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-generac-external-JR17718?s=gh-visa-sponsored-jobs-2027) |
 | **Generac** | Assembler I-19 | Holdrege, NE - USA | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-generac-external-JR17719?s=gh-visa-sponsored-jobs-2027) |
 | **Generac** | Assembler 1st shift | Trenton, SC - USA | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-generac-external-JR17714?s=gh-visa-sponsored-jobs-2027) |
@@ -799,7 +799,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 57050 current opportunities from 561 companies**
+**🎯 57054 current opportunities from 561 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
