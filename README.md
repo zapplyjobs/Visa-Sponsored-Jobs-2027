@@ -620,12 +620,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Brown & Brown Insurance** | Assistant Broker | Scottsdale, AZ, USA | 4m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000001804?s=gh-visa-sponsored-jobs-2027) |
-| **Brown & Brown Insurance** | Inside Sales Specialist | California | 4m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000003021?s=gh-visa-sponsored-jobs-2027) |
-| **Brown & Brown Insurance** | Dealer Performance & Growth Executive | Arlington, TX, USA | 4m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000001892?s=gh-visa-sponsored-jobs-2027) |
-| **Apple** | US - Specialist: Seasonal, Part-time | United States | 10m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-114438158?s=gh-visa-sponsored-jobs-2027) |
-| **Fresenius Medical Care** | RN Level 1 Year 8 WA | Stirling, WA | 34m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0272174?s=gh-visa-sponsored-jobs-2027) |
-| **Fresenius Medical Care** | RN Level 1 Year 3 WA | Stirling, WA | 34m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0271811?s=gh-visa-sponsored-jobs-2027) |
+| **Brown & Brown Insurance** | Assistant Broker | Scottsdale, AZ, USA | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000001804?s=gh-visa-sponsored-jobs-2027) |
+| **Brown & Brown Insurance** | Inside Sales Specialist | California | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000003021?s=gh-visa-sponsored-jobs-2027) |
+| **Brown & Brown Insurance** | Dealer Performance & Growth Executive | Arlington, TX, USA | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000001892?s=gh-visa-sponsored-jobs-2027) |
+| **Apple** | US - Specialist: Seasonal, Part-time | United States | 19m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-114438158?s=gh-visa-sponsored-jobs-2027) |
+| **Fresenius Medical Care** | RN Level 1 Year 8 WA | Stirling, WA | 43m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0272174?s=gh-visa-sponsored-jobs-2027) |
+| **Fresenius Medical Care** | RN Level 1 Year 3 WA | Stirling, WA | 43m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0271811?s=gh-visa-sponsored-jobs-2027) |
 | **Red Hat** | Sales Account Manager 2 | US, NC | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-redhat-jobs-R-058949?s=gh-visa-sponsored-jobs-2027) |
 | **GDIT** | Systems Administrator | International | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ230573?s=gh-visa-sponsored-jobs-2027) |
 | **Cisco** | Virtual Sales Account Executive - Splunk Federal Civilian (Remote) | McLean Virginia US | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cisco-cisco-careers-2027224?s=gh-visa-sponsored-jobs-2027) |
