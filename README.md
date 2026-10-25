@@ -509,8 +509,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **NVIDIA** | HPC Operations Engineer - EDA Infrastructure | CA Santa Clara | 3m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2014178?s=gh-visa-sponsored-jobs-2027) |
-| **RTX** | Material Program Manager (MPM) - Tucson, AZ | AZ-TUCSON-M09 | 54m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01884881?s=gh-visa-sponsored-jobs-2027) |
+| **NVIDIA** | HPC Operations Engineer - EDA Infrastructure | CA Santa Clara | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2014178?s=gh-visa-sponsored-jobs-2027) |
+| **RTX** | Material Program Manager (MPM) - Tucson, AZ | AZ-TUCSON-M09 | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01884881?s=gh-visa-sponsored-jobs-2027) |
 | **Target** | Full Time Hourly Warehouse Operations (T3808) | Midway, GA | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000447565?s=gh-visa-sponsored-jobs-2027) |
 | **Target** | Full Time Hourly Warehouse Operations (T3811) | Newton, NC | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000447662?s=gh-visa-sponsored-jobs-2027) |
 | **Target** | Full Time Hourly Warehouse Operations Hiring both Overnight and Weekend Shifts - $1,000 SIGN ON... | Chambersburg, PA | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000453978?s=gh-visa-sponsored-jobs-2027) |
@@ -620,16 +620,16 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Arrow Electronics** | Analog Layout Engineer (eInfochips) | TX-Texas | 3m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-arrow-ac-R249583?s=gh-visa-sponsored-jobs-2027) |
-| **Stanley Black & Decker** | UX/UI Design Intern - Summer 2027 | Valley City, OH, United States | 3m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-sbdinc-stanley-black-decker-career-site-REQ-1000052835?s=gh-visa-sponsored-jobs-2027) |
-| **KBR** | Area Authority (AAD) | Basra, Al Başrah, Iraq | 3m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kbr-kbr-careers-R2129450?s=gh-visa-sponsored-jobs-2027) |
-| **Apple** | US - Specialist: Seasonal, Part-time | United States | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-114438158?s=gh-visa-sponsored-jobs-2027) |
-| **Broadridge** | Sorting Machine Operator | South Windsor, CT | 34m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-broadridge-careers-JR1086336?s=gh-visa-sponsored-jobs-2027) |
-| **Broadridge** | Sorting Machine Operator | South Windsor, CT | 34m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-broadridge-careers-JR1086335?s=gh-visa-sponsored-jobs-2027) |
-| **Broadridge** | Production Assist. | South Windsor, CT | 34m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-broadridge-careers-JR1086333?s=gh-visa-sponsored-jobs-2027) |
-| **Capital One** | Full-stack Engineer 4 | Plano, TX | 34m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-capitalone-capital-one-R1001592?s=gh-visa-sponsored-jobs-2027) |
-| **Polaris** | Material Handler - 1st Shift | Huntsville, AL, USA | 54m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-polaris-polarisjobs-R31694?s=gh-visa-sponsored-jobs-2027) |
-| **Polaris** | Production Operator - 3rd Shift | Huntsville, AL, USA | 54m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-polaris-polarisjobs-R31693?s=gh-visa-sponsored-jobs-2027) |
+| **Arrow Electronics** | Analog Layout Engineer (eInfochips) | TX-Texas | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-arrow-ac-R249583?s=gh-visa-sponsored-jobs-2027) |
+| **Stanley Black & Decker** | UX/UI Design Intern - Summer 2027 | Valley City, OH, United States | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-sbdinc-stanley-black-decker-career-site-REQ-1000052835?s=gh-visa-sponsored-jobs-2027) |
+| **KBR** | Area Authority (AAD) | Basra, Al Başrah, Iraq | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kbr-kbr-careers-R2129450?s=gh-visa-sponsored-jobs-2027) |
+| **Apple** | US - Specialist: Seasonal, Part-time | United States | 24m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-114438158?s=gh-visa-sponsored-jobs-2027) |
+| **Broadridge** | Sorting Machine Operator | South Windsor, CT | 43m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-broadridge-careers-JR1086336?s=gh-visa-sponsored-jobs-2027) |
+| **Broadridge** | Sorting Machine Operator | South Windsor, CT | 43m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-broadridge-careers-JR1086335?s=gh-visa-sponsored-jobs-2027) |
+| **Broadridge** | Production Assist. | South Windsor, CT | 43m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-broadridge-careers-JR1086333?s=gh-visa-sponsored-jobs-2027) |
+| **Capital One** | Full-stack Engineer 4 | Plano, TX | 43m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-capitalone-capital-one-R1001592?s=gh-visa-sponsored-jobs-2027) |
+| **Polaris** | Material Handler - 1st Shift | Huntsville, AL, USA | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-polaris-polarisjobs-R31694?s=gh-visa-sponsored-jobs-2027) |
+| **Polaris** | Production Operator - 3rd Shift | Huntsville, AL, USA | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-polaris-polarisjobs-R31693?s=gh-visa-sponsored-jobs-2027) |
 | **LabCorp** | Laboratory Testing Clerk | Holyoke MA | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2638027?s=gh-visa-sponsored-jobs-2027) |
 | **LabCorp** | 3rd shift Hospital Phlebotomist | Fairhope AL | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2634645?s=gh-visa-sponsored-jobs-2027) |
 | **Target** | Full Time Hourly Warehouse Associate Evergreen Requisition Seasonal Openings (T3861) | Dallas, TX | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000447618?s=gh-visa-sponsored-jobs-2027) |
