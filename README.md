@@ -620,14 +620,14 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Apple** | US - Specialist: Seasonal, Part-time | United States | 11m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-114438158?s=gh-visa-sponsored-jobs-2027) |
-| **Wells Fargo** | Relationship Banker - Huntsville, AL | HUNTSVILLE, AL | 25m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-wf-wellsfargojobs-R-580057?s=gh-visa-sponsored-jobs-2027) |
-| **LabCorp** | PSC Phlebotomist | Huntsville AL | 56m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2638208?s=gh-visa-sponsored-jobs-2027) |
-| **LabCorp** | PSC Phlebotomist | Huntsville AL | 56m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2638293?s=gh-visa-sponsored-jobs-2027) |
+| **Apple** | US - Specialist: Seasonal, Part-time | United States | 18m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-114438158?s=gh-visa-sponsored-jobs-2027) |
+| **Wells Fargo** | Relationship Banker - Huntsville, AL | HUNTSVILLE, AL | 32m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-wf-wellsfargojobs-R-580057?s=gh-visa-sponsored-jobs-2027) |
+| **LabCorp** | PSC Phlebotomist | Huntsville AL | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2638208?s=gh-visa-sponsored-jobs-2027) |
+| **LabCorp** | PSC Phlebotomist | Huntsville AL | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2638293?s=gh-visa-sponsored-jobs-2027) |
 | **CVS Health** | Pharmacy Intern - Grad | SC - Lyman | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1025001?s=gh-visa-sponsored-jobs-2027) |
-| **S&P Global** | Associate, Bonds Data | New York, NY | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-spgi-spgi-careers-332412?s=gh-visa-sponsored-jobs-2027) |
-| **S&P Global** | Marketing Specialist- Enterprise Solution | New York, NY | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-spgi-spgi-careers-332335?s=gh-visa-sponsored-jobs-2027) |
-| **S&P Global** | Zero Trust & Microsegmentation Engineer | Princeton, NJ | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-spgi-spgi-careers-332010?s=gh-visa-sponsored-jobs-2027) |
+| **S&P Global** | Associate, Bonds Data | New York, NY | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-spgi-spgi-careers-332412?s=gh-visa-sponsored-jobs-2027) |
+| **S&P Global** | Marketing Specialist- Enterprise Solution | New York, NY | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-spgi-spgi-careers-332335?s=gh-visa-sponsored-jobs-2027) |
+| **S&P Global** | Zero Trust & Microsegmentation Engineer | Princeton, NJ | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-spgi-spgi-careers-332010?s=gh-visa-sponsored-jobs-2027) |
 | **Brown & Brown Insurance** | Account Manager - Personal Lines | Medford, OR, USA | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000002187?s=gh-visa-sponsored-jobs-2027) |
 | **Brown & Brown Insurance** | Entry Level Insurance Professional | Daytona Beach, FL, USA | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R23_0000003953?s=gh-visa-sponsored-jobs-2027) |
 | **Boston Dynamics** | Applications/Integration Engineer- RMAC | Savannah | Date unknown | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bostondynamics-boston-dynamics-R3230?s=gh-visa-sponsored-jobs-2027) |
