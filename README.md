@@ -515,8 +515,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Schweitzer Engineering Laboratories** | Engineering Support Specialist | Idaho - Lewiston | Date unknown | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-selinc-sel-2026-24428?s=gh-visa-sponsored-jobs-2027) |
 | **Schweitzer Engineering Laboratories** | Technical Marketing Program Manager | Pennsylvania - King of Prussia | Date unknown | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-selinc-sel-2026-22662?s=gh-visa-sponsored-jobs-2027) |
 | **Schweitzer Engineering Laboratories** | Field Service Electronics Technician | Idaho - Lewiston | Date unknown | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-selinc-sel-2026-22028?s=gh-visa-sponsored-jobs-2027) |
-| **Applied Materials** | Field Service Engineer II (C2) | PhoenixAZ | 25m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-amat-external-R2615399?s=gh-visa-sponsored-jobs-2027) |
-| **Applied Materials** | Field Service Engineer III (C3) - N. Phoenix, AZ. | PhoenixAZ | 25m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-amat-external-R2615858?s=gh-visa-sponsored-jobs-2027) |
+| **Applied Materials** | Field Service Engineer II (C2) | PhoenixAZ | 32m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-amat-external-R2615399?s=gh-visa-sponsored-jobs-2027) |
+| **Applied Materials** | Field Service Engineer III (C3) - N. Phoenix, AZ. | PhoenixAZ | 32m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-amat-external-R2615858?s=gh-visa-sponsored-jobs-2027) |
 | **TikTok** | Program Manager - Global Brand & Communications PMO | New York, New York | Date unknown | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/tiktok-7699199774008543493?s=gh-visa-sponsored-jobs-2027) |
 | **TikTok** | Business Analysis and Strategy Project Intern (TikTok Shop - Operations Center) - 2026 Start | Los Angeles, California | Date unknown | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/tiktok-7671154943353719045?s=gh-visa-sponsored-jobs-2027) |
 | **TikTok** | Listing Governance Program Manager Graduate (TikTok Shop - Governance & Experience) - 2027 Start | Seattle, Washington | Date unknown | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/tiktok-7693569931690182965?s=gh-visa-sponsored-jobs-2027) |
@@ -620,7 +620,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Apple** | US - Specialist: Seasonal, Part-time | United States | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-114438158?s=gh-visa-sponsored-jobs-2027) |
+| **Apple** | US - Specialist: Seasonal, Part-time | United States | 21m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-114438158?s=gh-visa-sponsored-jobs-2027) |
 | **Parsons** | Engineering Technician | Remote (Any Location), R187504 | Date unknown | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-parsons-search-R187504?s=gh-visa-sponsored-jobs-2027) |
 | **Parsons** | Field Carpenter-FAA (100% Travel) | FL (Field Location), R187751 | Date unknown | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-parsons-search-R187751?s=gh-visa-sponsored-jobs-2027) |
 | **Parsons** | Civil Engineer Intern - Summer 2027 | CA, Pasadena, R187651 | Date unknown | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-parsons-search-R187651?s=gh-visa-sponsored-jobs-2027) |
