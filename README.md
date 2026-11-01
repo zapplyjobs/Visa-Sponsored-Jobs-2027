@@ -235,7 +235,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Nokia** | Technical Support and Validation Engineer | United States | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-nokia-41759?s=gh-visa-sponsored-jobs-2027) |
 | **Apple** | Battery Management Systems - Electrical Engineer | Cupertino | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-200692331?s=gh-visa-sponsored-jobs-2027) |
 | **Rocket Lab** | Electrical Engineer I | Pasadena, CA | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-rocketlab-8057261003?s=gh-visa-sponsored-jobs-2027) |
-| **Diversified Automation** | Hardware Engineering Co-Op | Louisville, KY | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-diversified-automation-7a1f1890-bc5d-4e5e-a510-7fe7f85660d3?s=gh-visa-sponsored-jobs-2027) |
+| **Diversified Automation** | Hardware Engineering Co-Op | Louisville, KY | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-diversified-automation-7a1f1890-bc5d-4e5e-a510-7fe7f85660d3?s=gh-visa-sponsored-jobs-2027) |
 | **CAE** | Electrical Engineer | Tampa | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cae-career-123892?s=gh-visa-sponsored-jobs-2027) |
 | **CAE** | Electrical Engineer | Tampa | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cae-career-123917?s=gh-visa-sponsored-jobs-2027) |
 | **CAE** | Electrical Engineer | Tampa | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cae-career-123918?s=gh-visa-sponsored-jobs-2027) |
@@ -398,7 +398,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Lowe's** | Full Time - Fulfillment Associate - Day | Lees Summit, MO 1180 | 31m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02696835?s=gh-visa-sponsored-jobs-2027) |
+| **Lowe's** | Full Time - Fulfillment Associate - Day | Lees Summit, MO 1180 | 38m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02696835?s=gh-visa-sponsored-jobs-2027) |
 | **Target** | Maintenance Technician 1 - Upstream Distribution Center - DeKalb, IL | Dekalb, IL | 3h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000479429?s=gh-visa-sponsored-jobs-2027) |
 | **Kroger** | DAIRY/CLERK | Shorewood Hills, WI, United States | 19h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-kroger-246398?s=gh-visa-sponsored-jobs-2027) |
 | **AutoZone** | Retail Sales Associate – Part Time | Simi Valley, CA, United States | 19h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-autozone-172200?s=gh-visa-sponsored-jobs-2027) |
@@ -509,9 +509,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Target** | Full Time Hourly Warehouse Operations (T3808) | Midway, GA | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000447565?s=gh-visa-sponsored-jobs-2027) |
-| **Target** | Full Time Hourly Warehouse Operations (T3811) | Newton, NC | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000447662?s=gh-visa-sponsored-jobs-2027) |
-| **Target** | Full Time Hourly Warehouse Operations Hiring both Overnight and Weekend Shifts - $1,000 SIGN ON... | Chambersburg, PA | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000453978?s=gh-visa-sponsored-jobs-2027) |
+| **Target** | Full Time Hourly Warehouse Operations (T3808) | Midway, GA | 22m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000447565?s=gh-visa-sponsored-jobs-2027) |
+| **Target** | Full Time Hourly Warehouse Operations (T3811) | Newton, NC | 22m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000447662?s=gh-visa-sponsored-jobs-2027) |
+| **Target** | Full Time Hourly Warehouse Operations Hiring both Overnight and Weekend Shifts - $1,000 SIGN ON... | Chambersburg, PA | 22m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000453978?s=gh-visa-sponsored-jobs-2027) |
 | **Kohl's** | Seasonal Stockroom Operations Associate | Eau Claire, Wisconsin | 19h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-kohl-s-R476723?s=gh-visa-sponsored-jobs-2027) |
 | **Kohl's** | Seasonal Stockroom Operations Associate | Flowood, Mississippi | 19h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-kohl-s-R477935?s=gh-visa-sponsored-jobs-2027) |
 | **Kohl's** | Seasonal Stockroom Operations Associate | Jacksonville, Florida | 19h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-kohl-s-R477965?s=gh-visa-sponsored-jobs-2027) |
@@ -620,19 +620,19 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Target** | Full Time Hourly Warehouse Associate Evergreen Requisition Seasonal Openings (T3861) | Dallas, TX | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000447618?s=gh-visa-sponsored-jobs-2027) |
-| **Target** | Full Time Hourly Warehouse Associate Openings - $1,000 SIGN ON BONUS (T0579) | Wilton, NY | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000453977?s=gh-visa-sponsored-jobs-2027) |
-| **Target** | Full Time Hourly Warehouse Worker Seasonal Openings (T3032) | Mililani, HI | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000447582?s=gh-visa-sponsored-jobs-2027) |
-| **RTX** | Supplier Quality Engineer | TX-MCKINNEY | 16m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01885032?s=gh-visa-sponsored-jobs-2027) |
-| **Lowe's** | Full Time - Merchandising Service Associate - Day | Claremore, OK 1891 | 31m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02696849?s=gh-visa-sponsored-jobs-2027) |
-| **Lowe's** | Full Time - Receiver/Stocker - Day | Concord, NH 2617 | 31m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02696847?s=gh-visa-sponsored-jobs-2027) |
-| **Lowe's** | Full Time - Merchandising Service Associate - Day | Lincolnwood, IL 1748 | 31m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02696845?s=gh-visa-sponsored-jobs-2027) |
-| **Crane Co.** | Buyer Planner I | Los Angeles, California | 41m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cranecompany-careers-JR102821?s=gh-visa-sponsored-jobs-2027) |
-| **Merck & Co.** | 2027 Future Talent Program – Digital Transformation Conversion – Intern | USA - Pennsylvania - Lower... | 41m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-msd-searchjobs-R412942?s=gh-visa-sponsored-jobs-2027) |
-| **Brown & Brown Insurance** | Commercial Lines Account Coordinator | Lakeland, FL, USA | 56m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000003820?s=gh-visa-sponsored-jobs-2027) |
-| **Brown & Brown Insurance** | Audit Reviewer | San Diego, CA, USA | 56m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000002884?s=gh-visa-sponsored-jobs-2027) |
-| **Brown & Brown Insurance** | Reinsurance Accountant | Tyler, TX, USA | 56m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000003192?s=gh-visa-sponsored-jobs-2027) |
-| **Benchling** | Enterprise Account Executive | San Francisco, CA | 59m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-benchling-33c85327-b9aa-41c6-a2e7-4dac4381087e?s=gh-visa-sponsored-jobs-2027) |
+| **Target** | Full Time Hourly Warehouse Associate Evergreen Requisition Seasonal Openings (T3861) | Dallas, TX | 22m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000447618?s=gh-visa-sponsored-jobs-2027) |
+| **Target** | Full Time Hourly Warehouse Associate Openings - $1,000 SIGN ON BONUS (T0579) | Wilton, NY | 22m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000453977?s=gh-visa-sponsored-jobs-2027) |
+| **Target** | Full Time Hourly Warehouse Worker Seasonal Openings (T3032) | Mililani, HI | 22m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000447582?s=gh-visa-sponsored-jobs-2027) |
+| **RTX** | Supplier Quality Engineer | TX-MCKINNEY | 23m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01885032?s=gh-visa-sponsored-jobs-2027) |
+| **Lowe's** | Full Time - Merchandising Service Associate - Day | Claremore, OK 1891 | 38m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02696849?s=gh-visa-sponsored-jobs-2027) |
+| **Lowe's** | Full Time - Receiver/Stocker - Day | Concord, NH 2617 | 38m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02696847?s=gh-visa-sponsored-jobs-2027) |
+| **Lowe's** | Full Time - Merchandising Service Associate - Day | Lincolnwood, IL 1748 | 38m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02696845?s=gh-visa-sponsored-jobs-2027) |
+| **Crane Co.** | Buyer Planner I | Los Angeles, California | 47m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cranecompany-careers-JR102821?s=gh-visa-sponsored-jobs-2027) |
+| **Merck & Co.** | 2027 Future Talent Program – Digital Transformation Conversion – Intern | USA - Pennsylvania - Lower... | 47m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-msd-searchjobs-R412942?s=gh-visa-sponsored-jobs-2027) |
+| **Brown & Brown Insurance** | Commercial Lines Account Coordinator | Lakeland, FL, USA | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000003820?s=gh-visa-sponsored-jobs-2027) |
+| **Brown & Brown Insurance** | Audit Reviewer | San Diego, CA, USA | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000002884?s=gh-visa-sponsored-jobs-2027) |
+| **Brown & Brown Insurance** | Reinsurance Accountant | Tyler, TX, USA | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000003192?s=gh-visa-sponsored-jobs-2027) |
+| **Benchling** | Enterprise Account Executive | San Francisco, CA | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-benchling-33c85327-b9aa-41c6-a2e7-4dac4381087e?s=gh-visa-sponsored-jobs-2027) |
 | **Caterpillar** | Warehouse Associate | Athens, Georgia | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cat-caterpillarcareers-R0000395398?s=gh-visa-sponsored-jobs-2027) |
 | **Apple** | US - Specialist: Seasonal, Part-time | United States | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-114438158?s=gh-visa-sponsored-jobs-2027) |
 | **CVS Health** | Store Associate | FL - Miami | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-P-100277?s=gh-visa-sponsored-jobs-2027) |
