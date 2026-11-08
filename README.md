@@ -65,7 +65,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Altera** | Network Security Engineer | San Jose, California, United States | 7m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-altera-altera-R03275?s=gh-visa-sponsored-jobs-2027) |
+| **Altera** | Network Security Engineer | San Jose, California, United States | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-altera-altera-R03275?s=gh-visa-sponsored-jobs-2027) |
 | **Leidos** | ​​Electronic Warfare DevOps Engineer​ | Huntsville, AL | 6h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-leidos-external-R-00196520?s=gh-visa-sponsored-jobs-2027) |
 | **PNC Financial Services** | Software Engineer - AI Agents / Generative AI | PA Pittsburgh 15222 | 18h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pnc-external-R240298?s=gh-visa-sponsored-jobs-2027) |
 | **PNC Financial Services** | Software Engineer - AI | PA Pittsburgh 15222 | 18h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pnc-external-R240299?s=gh-visa-sponsored-jobs-2027) |
@@ -287,7 +287,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **NVIDIA** | Machine Learning Engineer, Data Curation - Autonomous Vehicles | CA Santa Clara | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2028908?s=gh-visa-sponsored-jobs-2027) |
+| **NVIDIA** | Machine Learning Engineer, Data Curation - Autonomous Vehicles | CA Santa Clara | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2028908?s=gh-visa-sponsored-jobs-2027) |
 | **Thermo Fisher Scientific** | Associate Research Scientist | Collegeville, Pennsylvania, USA | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-thermofisher-thermofishercareers-R-01375204?s=gh-visa-sponsored-jobs-2027) |
 | **Dow Jones** | Data Analyst (Customer Service Contact Center) | Princeton | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-dowjones-dow-jones-career-Job_Req_56368?s=gh-visa-sponsored-jobs-2027) |
 | **NVIDIA** | PhD Research Scientist, Fundamental Generative AI - New College Grad 2026 | US, CA, Santa Clara | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2026739?s=gh-visa-sponsored-jobs-2027) |
@@ -398,10 +398,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Oshkosh Corporation** | Painter Trainee - 1st Shift | Dodge | 7m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-oshkoshcorporation-oshkosh-R51823?s=gh-visa-sponsored-jobs-2027) |
-| **Lowe's** | Part Time - Fulfillment Associate - Flexible | Pompano Beach, FL 1792 | 7m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02701426?s=gh-visa-sponsored-jobs-2027) |
-| **Lowe's** | Part Time - Fulfillment Associate - Flexible | Sunnyvale, CA 2211 | 7m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02701424?s=gh-visa-sponsored-jobs-2027) |
-| **Lowe's** | Full Time - Fulfillment Team Lead - Day | Kailua Kona, HI (Kona) 1561 | 7m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02700442?s=gh-visa-sponsored-jobs-2027) |
+| **Oshkosh Corporation** | Painter Trainee - 1st Shift | Dodge | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-oshkoshcorporation-oshkosh-R51823?s=gh-visa-sponsored-jobs-2027) |
+| **Lowe's** | Part Time - Fulfillment Associate - Flexible | Pompano Beach, FL 1792 | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02701426?s=gh-visa-sponsored-jobs-2027) |
+| **Lowe's** | Part Time - Fulfillment Associate - Flexible | Sunnyvale, CA 2211 | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02701424?s=gh-visa-sponsored-jobs-2027) |
+| **Lowe's** | Full Time - Fulfillment Team Lead - Day | Kailua Kona, HI (Kona) 1561 | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02700442?s=gh-visa-sponsored-jobs-2027) |
 | **T-Mobile** | Mobile Associate - Retail Sales | Portland, Oregon | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-tmobile-external-REQ375669?s=gh-visa-sponsored-jobs-2027) |
 | **Wolters Kluwer** | Fulfillment Associate - Document Management | USA - Wilmington, DE, Orange St | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-wk-external-R0060996?s=gh-visa-sponsored-jobs-2027) |
 | **Wolters Kluwer** | Fulfillment Associate - Document Management | USA - Wilmington, DE, Orange St | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-wk-external-R0061000?s=gh-visa-sponsored-jobs-2027) |
@@ -620,19 +620,19 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Lowe's** | Full Time - Receiver/Stocker - Overnight | York, PA (W York) 2409 | 7m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02701435?s=gh-visa-sponsored-jobs-2027) |
-| **Lowe's** | Full Time - Receiver/Stocker - Overnight | York, PA (W York) 2409 | 7m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02701434?s=gh-visa-sponsored-jobs-2027) |
-| **Lowe's** | Full Time - Sales Associate - Flooring - Day | Waipahu, HI 0119 | 7m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02701433?s=gh-visa-sponsored-jobs-2027) |
-| **Brown & Brown Insurance** | Customer Care Specialist | Remote - Illinois | 7m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000002986?s=gh-visa-sponsored-jobs-2027) |
-| **Brown & Brown Insurance** | Benefits Account Coordinator | Tallahassee, FL, USA | 7m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000003259?s=gh-visa-sponsored-jobs-2027) |
-| **Brown & Brown Insurance** | Outside Sales Representative – Life and Disability | Remote - New York | 7m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000003336?s=gh-visa-sponsored-jobs-2027) |
-| **Philips** | Usability Designer | Cambridge (US), Massachusetts,... | 16m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-philips-jobs-and-careers-583407?s=gh-visa-sponsored-jobs-2027) |
-| **Brunswick** | Boston Whaler - Laminator I | Edgewater, FL | 16m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-brunswick-search-JR-051679?s=gh-visa-sponsored-jobs-2027) |
-| **Brunswick** | Boston Whaler Finisher I | Edgewater, FL | 16m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-brunswick-search-JR-051354?s=gh-visa-sponsored-jobs-2027) |
-| **Brunswick** | Trim and Grind | Edgewater, FL | 16m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-brunswick-search-JR-051693?s=gh-visa-sponsored-jobs-2027) |
-| **Amgen** | Account Manager/Specialty Account Manager - TEPEZZA (Ocular) - San Diego, CA | California San Diego | 26m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-amgen-careers-R-260149?s=gh-visa-sponsored-jobs-2027) |
-| **Apple** | US - Specialist: Seasonal, Part-time | United States | 52m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-114438158?s=gh-visa-sponsored-jobs-2027) |
-| **LabCorp** | Clinical Laboratory Technologist - Core Chemistry | Birmingham AL | 57m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2640110?s=gh-visa-sponsored-jobs-2027) |
+| **Lowe's** | Full Time - Receiver/Stocker - Overnight | York, PA (W York) 2409 | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02701435?s=gh-visa-sponsored-jobs-2027) |
+| **Lowe's** | Full Time - Receiver/Stocker - Overnight | York, PA (W York) 2409 | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02701434?s=gh-visa-sponsored-jobs-2027) |
+| **Lowe's** | Full Time - Sales Associate - Flooring - Day | Waipahu, HI 0119 | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02701433?s=gh-visa-sponsored-jobs-2027) |
+| **Brown & Brown Insurance** | Customer Care Specialist | Remote - Illinois | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000002986?s=gh-visa-sponsored-jobs-2027) |
+| **Brown & Brown Insurance** | Benefits Account Coordinator | Tallahassee, FL, USA | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000003259?s=gh-visa-sponsored-jobs-2027) |
+| **Brown & Brown Insurance** | Outside Sales Representative – Life and Disability | Remote - New York | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000003336?s=gh-visa-sponsored-jobs-2027) |
+| **Philips** | Usability Designer | Cambridge (US), Massachusetts,... | 23m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-philips-jobs-and-careers-583407?s=gh-visa-sponsored-jobs-2027) |
+| **Brunswick** | Boston Whaler - Laminator I | Edgewater, FL | 23m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-brunswick-search-JR-051679?s=gh-visa-sponsored-jobs-2027) |
+| **Brunswick** | Boston Whaler Finisher I | Edgewater, FL | 23m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-brunswick-search-JR-051354?s=gh-visa-sponsored-jobs-2027) |
+| **Brunswick** | Trim and Grind | Edgewater, FL | 23m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-brunswick-search-JR-051693?s=gh-visa-sponsored-jobs-2027) |
+| **Amgen** | Account Manager/Specialty Account Manager - TEPEZZA (Ocular) - San Diego, CA | California San Diego | 33m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-amgen-careers-R-260149?s=gh-visa-sponsored-jobs-2027) |
+| **Apple** | US - Specialist: Seasonal, Part-time | United States | 59m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-114438158?s=gh-visa-sponsored-jobs-2027) |
+| **LabCorp** | Clinical Laboratory Technologist - Core Chemistry | Birmingham AL | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2640110?s=gh-visa-sponsored-jobs-2027) |
 | **Fresenius Medical Care** | Registered Nurse - RN - Dialysis | Waianae, HI | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0276398?s=gh-visa-sponsored-jobs-2027) |
 | **Fresenius Medical Care** | Outpatient Registered Nurse - RN | Indianapolis, IN | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0260967?s=gh-visa-sponsored-jobs-2027) |
 | **Wells Fargo** | Teller Part Time Signal Hill | SIGNAL HILL, CA | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-wf-wellsfargojobs-R-579135?s=gh-visa-sponsored-jobs-2027) |
