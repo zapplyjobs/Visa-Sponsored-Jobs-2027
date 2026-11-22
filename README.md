@@ -398,10 +398,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Lowe's** | Part Time - Fulfillment Associate - Flexible | Philadelphia, PA (NE... | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02710482?s=gh-visa-sponsored-jobs-2027) |
-| **Lowe's** | Part Time - Fulfillment Associate - Flexible | Philadelphia, PA (NE... | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02710481?s=gh-visa-sponsored-jobs-2027) |
-| **Lowe's** | Retail Sales – Part Time (Bilingual Preferred) | Wichita Falls, TX 0075 | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02690004?s=gh-visa-sponsored-jobs-2027) |
-| **Brown & Brown Insurance** | Workers' Compensation Claim Manager | Tacoma, WA, USA | 59m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000002908?s=gh-visa-sponsored-jobs-2027) |
+| **Lowe's** | Part Time - Fulfillment Associate - Flexible | Philadelphia, PA (NE... | 21m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02710482?s=gh-visa-sponsored-jobs-2027) |
+| **Lowe's** | Part Time - Fulfillment Associate - Flexible | Philadelphia, PA (NE... | 21m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02710481?s=gh-visa-sponsored-jobs-2027) |
+| **Lowe's** | Retail Sales – Part Time (Bilingual Preferred) | Wichita Falls, TX 0075 | 21m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02690004?s=gh-visa-sponsored-jobs-2027) |
+| **Brown & Brown Insurance** | Workers' Compensation Claim Manager | Tacoma, WA, USA | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000002908?s=gh-visa-sponsored-jobs-2027) |
 | **AMD** | Spring/Summer 2027 Masters AI Rack & Cluster Thermal Engineering Co-Op | Austin, TX, United States | 10h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/amd-89557?s=gh-visa-sponsored-jobs-2027) |
 | **Verizon** | Installation and Maintenance Technician | Pittsburgh, Pennsylvania | 16h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-verizon-verizon-careers-R-1102295?s=gh-visa-sponsored-jobs-2027) |
 | **Kroger** | Retail Hourly Clerk | Louisville, KY, United States | 20h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-kroger-255580?s=gh-visa-sponsored-jobs-2027) |
@@ -620,13 +620,13 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Apple** | US - Specialist: Seasonal, Part-time | United States | 10m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-114438158?s=gh-visa-sponsored-jobs-2027) |
-| **Lowe's** | Part Time - Loader/Cart Associate - Flexible | Brownsburg, IN 2681 | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02710477?s=gh-visa-sponsored-jobs-2027) |
-| **Lowe's** | Full Time - Sales Associate - Building Materials - Closing | Erie, PA (W Erie) 1654 | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02710455?s=gh-visa-sponsored-jobs-2027) |
-| **Lowe's** | Full Time - Receiver/Stocker - Day | Athens, GA 0506 | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02709661?s=gh-visa-sponsored-jobs-2027) |
-| **Brown & Brown Insurance** | Benefits Consultant | Ft. Lauderdale, FL, USA | 59m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R25_0000003306?s=gh-visa-sponsored-jobs-2027) |
-| **Brown & Brown Insurance** | Commercial Lines Account Executive | Jacksonville, FL, USA | 59m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000003258?s=gh-visa-sponsored-jobs-2027) |
-| **Brown & Brown Insurance** | Insurance Administrative Assistant | Tallahassee, FL, USA | 59m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000002455?s=gh-visa-sponsored-jobs-2027) |
+| **Apple** | US - Specialist: Seasonal, Part-time | United States | 17m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-114438158?s=gh-visa-sponsored-jobs-2027) |
+| **Lowe's** | Part Time - Loader/Cart Associate - Flexible | Brownsburg, IN 2681 | 21m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02710477?s=gh-visa-sponsored-jobs-2027) |
+| **Lowe's** | Full Time - Sales Associate - Building Materials - Closing | Erie, PA (W Erie) 1654 | 21m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02710455?s=gh-visa-sponsored-jobs-2027) |
+| **Lowe's** | Full Time - Receiver/Stocker - Day | Athens, GA 0506 | 21m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02709661?s=gh-visa-sponsored-jobs-2027) |
+| **Brown & Brown Insurance** | Benefits Consultant | Ft. Lauderdale, FL, USA | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R25_0000003306?s=gh-visa-sponsored-jobs-2027) |
+| **Brown & Brown Insurance** | Commercial Lines Account Executive | Jacksonville, FL, USA | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000003258?s=gh-visa-sponsored-jobs-2027) |
+| **Brown & Brown Insurance** | Insurance Administrative Assistant | Tallahassee, FL, USA | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000002455?s=gh-visa-sponsored-jobs-2027) |
 | **Regal Rexnord** | Welder | Cambridge, Maryland, United States | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-regalrexnord-careers-R26_04386?s=gh-visa-sponsored-jobs-2027) |
 | **Conagra Brands** | Veg Mix Operator (D shift- 6pm to 6am) | Darien, Wisconsin | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-conagrabrands-careers-us-Req-041008?s=gh-visa-sponsored-jobs-2027) |
 | **Conagra Brands** | Case Erector | Darien, Wisconsin | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-conagrabrands-careers-us-Req-040898?s=gh-visa-sponsored-jobs-2027) |
