@@ -65,11 +65,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **General Motors** | Motorsports Embedded Controls Hardware Design & Integration Engineer | Concord, North Carolina, United... | 47m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202624289?s=gh-visa-sponsored-jobs-2027) |
+| **General Motors** | Motorsports Embedded Controls Hardware Design & Integration Engineer | Concord, North Carolina, United... | 53m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202624289?s=gh-visa-sponsored-jobs-2027) |
 | **Boeing** | Computer Systems Engineer – Space Payload Emulators – (Experienced or Lead) | USA - El Segundo, CA | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026523811?s=gh-visa-sponsored-jobs-2027) |
 | **RTX** | Front-End Software Engineer II | MD-ANNAPOLIS JUNCTION | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01889506?s=gh-visa-sponsored-jobs-2027) |
 | **UPS** | Buildings and Systems Engineering Supervisor | PLAINFIELD, Indiana | 3h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ups-R26040543?s=gh-visa-sponsored-jobs-2027) |
-| **Blue Origin** | Systems Engineer, Spacecraft Thermal Control-Project Sunrise | Denver, CO | 4h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-blueorigin-blueorigin-R75626?s=gh-visa-sponsored-jobs-2027) |
+| **Blue Origin** | Systems Engineer, Spacecraft Thermal Control-Project Sunrise | Denver, CO | 5h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-blueorigin-blueorigin-R75626?s=gh-visa-sponsored-jobs-2027) |
 | **Cisco** | Network Systems Engineer | Rancho Cordova California US | 9h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cisco-cisco-careers-2029624?s=gh-visa-sponsored-jobs-2027) |
 | **Cisco** | Software Engineer – India ComSec (NCCS) Hybrid | RTP, North Carolina, US | 9h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cisco-cisco-careers-2029692?s=gh-visa-sponsored-jobs-2027) |
 | **Cisco** | Software Engineer – India ComSec (NCCS) | RTP, North Carolina, US | 9h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cisco-cisco-careers-2029693?s=gh-visa-sponsored-jobs-2027) |
@@ -287,7 +287,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **GDIT** | Data Analyst | USA DC Washington | 5m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ232564?s=gh-visa-sponsored-jobs-2027) |
+| **GDIT** | Data Analyst | USA DC Washington | 11m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ232564?s=gh-visa-sponsored-jobs-2027) |
 | **Hitachi** | Data Scientist I (MAD-BS-OR) | (HTA) NCP | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hitachi-hitachi-R0128931?s=gh-visa-sponsored-jobs-2027) |
 | **Guidehouse** | Data Analyst & IT Consultant - Real Estate Portfolio | DC, Washington | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-guidehouse-external-42980?s=gh-visa-sponsored-jobs-2027) |
 | **CrowdStrike** | Engineer III - FinOps Data Analytics (Remote) | USA - Remote, VA | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-crowdstrike-crowdstrikecareers-R28231?s=gh-visa-sponsored-jobs-2027) |
@@ -620,14 +620,14 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Conagra Brands** | Warehouse - Forklift Operator -1st shift | Fayetteville, Arkansas | 5m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-conagrabrands-careers-us-Req-041329?s=gh-visa-sponsored-jobs-2027) |
-| **Cardinal Health** | Pharmacy Technician ( Nuclear Pharmacy ) | San Diego, CA | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cardinalhealth-ext-20191572?s=gh-visa-sponsored-jobs-2027) |
-| **Daimler Truck** | Corporate Safety Intern | Gastonia, NC US | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-dtna-dtna-external-DT-20391?s=gh-visa-sponsored-jobs-2027) |
-| **Apple** | US - Specialist: Seasonal, Part-time | United States | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-114438158?s=gh-visa-sponsored-jobs-2027) |
-| **Danaher** | Production Operator 1 - (2nd Shift - 2:00pm to 10:30pm M/F) | Duncan, South Carolina, United... | 22m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-danaher-danaherjobs-R1318175?s=gh-visa-sponsored-jobs-2027) |
-| **Capital One** | Business Manager | Plano, TX | 22m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-capitalone-capital-one-R248901?s=gh-visa-sponsored-jobs-2027) |
-| **Applied Materials** | 2027 Engineering Technician I - Associate's Degree (Gloucester, MA) | Gloucester,MA | 47m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-amat-external-R2634171?s=gh-visa-sponsored-jobs-2027) |
-| **Applied Materials** | DDP SmartStart Install Automation Engineer | Santa Clara,CA | 47m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-amat-external-R2633220?s=gh-visa-sponsored-jobs-2027) |
+| **Conagra Brands** | Warehouse - Forklift Operator -1st shift | Fayetteville, Arkansas | 11m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-conagrabrands-careers-us-Req-041329?s=gh-visa-sponsored-jobs-2027) |
+| **Cardinal Health** | Pharmacy Technician ( Nuclear Pharmacy ) | San Diego, CA | 18m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cardinalhealth-ext-20191572?s=gh-visa-sponsored-jobs-2027) |
+| **Daimler Truck** | Corporate Safety Intern | Gastonia, NC US | 19m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-dtna-dtna-external-DT-20391?s=gh-visa-sponsored-jobs-2027) |
+| **Apple** | US - Specialist: Seasonal, Part-time | United States | 19m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-114438158?s=gh-visa-sponsored-jobs-2027) |
+| **Danaher** | Production Operator 1 - (2nd Shift - 2:00pm to 10:30pm M/F) | Duncan, South Carolina, United... | 28m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-danaher-danaherjobs-R1318175?s=gh-visa-sponsored-jobs-2027) |
+| **Capital One** | Business Manager | Plano, TX | 28m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-capitalone-capital-one-R248901?s=gh-visa-sponsored-jobs-2027) |
+| **Applied Materials** | 2027 Engineering Technician I - Associate's Degree (Gloucester, MA) | Gloucester,MA | 53m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-amat-external-R2634171?s=gh-visa-sponsored-jobs-2027) |
+| **Applied Materials** | DDP SmartStart Install Automation Engineer | Santa Clara,CA | 53m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-amat-external-R2633220?s=gh-visa-sponsored-jobs-2027) |
 | **Fresenius Medical Care** | Clinic Administrative Assistant | Leesville, SC | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0276971?s=gh-visa-sponsored-jobs-2027) |
 | **Fresenius Medical Care** | Acute Inpatient Care Technician - PCT | Ann Arbor, MI, USA | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0278572?s=gh-visa-sponsored-jobs-2027) |
 | **Fresenius Medical Care** | Acute Inpatient Registered Nurse - RN - Dialysis | Cleveland, OH | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0278949?s=gh-visa-sponsored-jobs-2027) |
@@ -672,10 +672,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Albertsons** | In-Store Shopper | Whittier, CA, United States | 3h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-albertsons-796231?s=gh-visa-sponsored-jobs-2027) |
 | **Albertsons** | Deli Clerk | Tarzana, CA, United States | 3h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-albertsons-796232?s=gh-visa-sponsored-jobs-2027) |
 | **UPS** | Driver Helper | Garner, Iowa | 3h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ups-f312a1d0-7645-42aa-bd60-6dd2b813528a?s=gh-visa-sponsored-jobs-2027) |
-| **Blue Origin** | System Safety & Mission Assurance Engineer-Project Sunrise | Denver, CO | 4h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-blueorigin-blueorigin-R75633?s=gh-visa-sponsored-jobs-2027) |
-| **Blue Origin** | Reliability Engineer, Spacecraft | Denver, CO | 4h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-blueorigin-blueorigin-R75634?s=gh-visa-sponsored-jobs-2027) |
-| **Blue Origin** | Integration Technician, Spacecraft-Project Sunrise | Denver, CO | 4h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-blueorigin-blueorigin-R75643?s=gh-visa-sponsored-jobs-2027) |
-| **SpaceX** | GNC Engineer (Starship) | Starbase, TX | 5h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-spacex-8947625002?s=gh-visa-sponsored-jobs-2027) |
+| **Blue Origin** | System Safety & Mission Assurance Engineer-Project Sunrise | Denver, CO | 5h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-blueorigin-blueorigin-R75633?s=gh-visa-sponsored-jobs-2027) |
+| **Blue Origin** | Reliability Engineer, Spacecraft | Denver, CO | 5h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-blueorigin-blueorigin-R75634?s=gh-visa-sponsored-jobs-2027) |
+| **Blue Origin** | Integration Technician, Spacecraft-Project Sunrise | Denver, CO | 5h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-blueorigin-blueorigin-R75643?s=gh-visa-sponsored-jobs-2027) |
+| **SpaceX** | GNC Engineer (Starship) | Starbase, TX | 6h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-spacex-8947625002?s=gh-visa-sponsored-jobs-2027) |
 | **SpaceX** | SPMT Operator - Transport (Starship) | Starbase, TX | 7h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-spacex-8952875002?s=gh-visa-sponsored-jobs-2027) |
 | **SpaceX** | Critical Lift Technician - Transport (Starship) | Starbase, TX | 7h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-spacex-8952834002?s=gh-visa-sponsored-jobs-2027) |
 | **Cisco** | Site Reliability Engineer | RTP, North Carolina, US | 9h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cisco-cisco-careers-2029632?s=gh-visa-sponsored-jobs-2027) |
