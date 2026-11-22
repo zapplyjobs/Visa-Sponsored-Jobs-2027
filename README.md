@@ -181,7 +181,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Lowe's** | Full Time - Sales Associate - Electrical & Lighting - Opening | Roanoke Rapids, NC 1815 | 4h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02710154?s=gh-visa-sponsored-jobs-2027) |
 | **SpaceX** | Supplier Development Engineer, Electrical (SpaceXSI) | Bastrop, TX | 16h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-spacex-8957661002?s=gh-visa-sponsored-jobs-2027) |
 | **SpaceX** | Electrical Design Engineer (Starfall Avionics) | Hawthorne, CA | 16h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-spacex-8957885002?s=gh-visa-sponsored-jobs-2027) |
-| **SpaceX** | New Graduate Engineer, Electrical (Starfall) | Hawthorne, CA | 16h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-spacex-8957873002?s=gh-visa-sponsored-jobs-2027) |
+| **SpaceX** | New Graduate Engineer, Electrical (Starfall) | Hawthorne, CA | 17h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-spacex-8957873002?s=gh-visa-sponsored-jobs-2027) |
 | **Philips** | Intern – Electrical Engineer – San Diego, CA – Summer 2027 | San Diego, California, United... | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-philips-jobs-and-careers-594811?s=gh-visa-sponsored-jobs-2027) |
 | **Curtiss-Wright** | Product Engineer - Electrical | OH-Middleburg Hts. | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-curtisswright-cw-external-career-site-JR13372?s=gh-visa-sponsored-jobs-2027) |
 | **Curtiss-Wright** | Product Engineer - Electrical | OH-Middleburg Hts. | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-curtisswright-cw-external-career-site-JR13124?s=gh-visa-sponsored-jobs-2027) |
@@ -398,8 +398,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Lowe's** | Retail Sales – Part Time (Bilingual Preferred) | Wichita Falls, TX 0075 | 17m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02690004?s=gh-visa-sponsored-jobs-2027) |
-| **Lowe's** | Retail Sales – Part Time (Bilingual Preferred) | Flower Mound, TX 2516 | 17m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02690299?s=gh-visa-sponsored-jobs-2027) |
+| **Lowe's** | Retail Sales – Part Time (Bilingual Preferred) | Wichita Falls, TX 0075 | 22m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02690004?s=gh-visa-sponsored-jobs-2027) |
+| **Lowe's** | Retail Sales – Part Time (Bilingual Preferred) | Flower Mound, TX 2516 | 22m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02690299?s=gh-visa-sponsored-jobs-2027) |
 | **AMD** | Spring/Summer 2027 Masters AI Rack & Cluster Thermal Engineering Co-Op | Austin, TX, United States | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/amd-89557?s=gh-visa-sponsored-jobs-2027) |
 | **Lowe's** | Part Time - Fulfillment Associate - Flexible | Victoria, TX 0282 | 4h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02710219?s=gh-visa-sponsored-jobs-2027) |
 | **Verizon** | Installation and Maintenance Technician | Pittsburgh, Pennsylvania | 7h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-verizon-verizon-careers-R-1102295?s=gh-visa-sponsored-jobs-2027) |
@@ -620,14 +620,14 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Live Nation** | Venue Off Duty Officer | Louisville, KY, USA | 7m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-livenation-lnexternalsite-JR-94411?s=gh-visa-sponsored-jobs-2027) |
-| **Apple** | US - Specialist: Seasonal, Part-time | United States | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-114438158?s=gh-visa-sponsored-jobs-2027) |
-| **Highmark Health** | Sterile Processing Technician Associate / Teamsters JH | Jefferson Hills PA, 15025, 565... | 26m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J291576?s=gh-visa-sponsored-jobs-2027) |
-| **AMD** | Spring/Summer 2027 Undergrad BIOS Engineering Co-Op | Austin, TX, United States | 58m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/amd-90475?s=gh-visa-sponsored-jobs-2027) |
+| **Live Nation** | Venue Off Duty Officer | Louisville, KY, USA | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-livenation-lnexternalsite-JR-94411?s=gh-visa-sponsored-jobs-2027) |
+| **Apple** | US - Specialist: Seasonal, Part-time | United States | 18m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-114438158?s=gh-visa-sponsored-jobs-2027) |
+| **Highmark Health** | Sterile Processing Technician Associate / Teamsters JH | Jefferson Hills PA, 15025, 565... | 31m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J291576?s=gh-visa-sponsored-jobs-2027) |
+| **AMD** | Spring/Summer 2027 Undergrad BIOS Engineering Co-Op | Austin, TX, United States | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/amd-90475?s=gh-visa-sponsored-jobs-2027) |
 | **JLL** | Mech and Robotics Tech | Pewaukee, WI | 3h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jll-jllcareers-REQ550737?s=gh-visa-sponsored-jobs-2027) |
 | **Microsoft** | FastTrack Full-Stack Engineer - (Italian/Spanish/French/German) Speaking | United States | 3h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200065603?s=gh-visa-sponsored-jobs-2027) |
-| **Danaher** | Production Operator 1 - (2nd Shift - 2:00pm to 10:30pm M/F) | Duncan, South Carolina, United... | 3h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-danaher-danaherjobs-R1318175?s=gh-visa-sponsored-jobs-2027) |
-| **KBR** | Area Process Engineer | Basra, Al Başrah, Iraq | 3h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kbr-kbr-careers-R2131956?s=gh-visa-sponsored-jobs-2027) |
+| **Danaher** | Production Operator 1 - (2nd Shift - 2:00pm to 10:30pm M/F) | Duncan, South Carolina, United... | 4h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-danaher-danaherjobs-R1318175?s=gh-visa-sponsored-jobs-2027) |
+| **KBR** | Area Process Engineer | Basra, Al Başrah, Iraq | 4h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kbr-kbr-careers-R2131956?s=gh-visa-sponsored-jobs-2027) |
 | **ASML** | Internship - Mechanical Engineer | Wilton, CT, USA | 4h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-asml-asmlext1-J-00358117?s=gh-visa-sponsored-jobs-2027) |
 | **Boeing** | Forward Deployed Engineer | USA - Ridley Park, PA | 4h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026529389?s=gh-visa-sponsored-jobs-2027) |
 | **Boeing** | Struct & Payload Design Engineer | USA - Ridley Park, PA | 4h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026518702?s=gh-visa-sponsored-jobs-2027) |
