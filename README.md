@@ -176,9 +176,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Lowe's** | Full Time - Sales Associate - Electrical & Lighting - Day | Warner Robins, GA 0483 | 17h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02710199?s=gh-visa-sponsored-jobs-2027) |
-| **Lowe's** | Full Time - Sales Associate - Electrical & Lighting - Day | Warner Robins, GA 0483 | 17h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02710198?s=gh-visa-sponsored-jobs-2027) |
-| **Lowe's** | Full Time - Sales Associate - Electrical & Lighting - Opening | Roanoke Rapids, NC 1815 | 17h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02710154?s=gh-visa-sponsored-jobs-2027) |
+| **Lowe's** | Full Time - Sales Associate - Electrical & Lighting - Day | Warner Robins, GA 0483 | 18h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02710199?s=gh-visa-sponsored-jobs-2027) |
+| **Lowe's** | Full Time - Sales Associate - Electrical & Lighting - Day | Warner Robins, GA 0483 | 18h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02710198?s=gh-visa-sponsored-jobs-2027) |
+| **Lowe's** | Full Time - Sales Associate - Electrical & Lighting - Opening | Roanoke Rapids, NC 1815 | 18h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02710154?s=gh-visa-sponsored-jobs-2027) |
 | **SpaceX** | Supplier Development Engineer, Electrical (SpaceXSI) | Bastrop, TX | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-spacex-8957661002?s=gh-visa-sponsored-jobs-2027) |
 | **SpaceX** | Electrical Design Engineer (Starfall Avionics) | Hawthorne, CA | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-spacex-8957885002?s=gh-visa-sponsored-jobs-2027) |
 | **SpaceX** | New Graduate Engineer, Electrical (Starfall) | Hawthorne, CA | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-spacex-8957873002?s=gh-visa-sponsored-jobs-2027) |
@@ -287,7 +287,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Capital One** | Machine Learning Engineer 4 (IC) | San Jose, CA | 25m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-capitalone-capital-one-R1001506?s=gh-visa-sponsored-jobs-2027) |
+| **Capital One** | Machine Learning Engineer 4 (IC) | San Jose, CA | 34m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-capitalone-capital-one-R1001506?s=gh-visa-sponsored-jobs-2027) |
 | **OpenAI** | Research Engineer / Research Scientist, Health | San Francisco | 7h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-openai-6785d983-8831-46d0-9c81-443f83664948?s=gh-visa-sponsored-jobs-2027) |
 | **OpenAI** | Research Engineer / Research Scientist, Human Flourishing | San Francisco | 7h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-openai-740b5d1b-f63d-49bb-962d-8e2778e925ef?s=gh-visa-sponsored-jobs-2027) |
 | **OpenAI** | Research Engineer / Research Scientist - Post Training, Memory | San Francisco | 7h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-openai-ecfe655c-1369-4bcd-aae0-4a3b75fdf61b?s=gh-visa-sponsored-jobs-2027) |
@@ -509,9 +509,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Target** | Seasonal Full Time Hourly Warehouse Operations Openings (T3801) | Midlothian, TX | 5m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000447602?s=gh-visa-sponsored-jobs-2027) |
-| **Target** | Full Time Hourly Warehouse Operations Openings - - $1,000 SIGN ON BONUS (T0557) | Oconomowoc, WI | 5m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000453974?s=gh-visa-sponsored-jobs-2027) |
-| **Target** | Full Time Hourly Warehouse Operations (T3808) | Midway, GA | 5m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000447565?s=gh-visa-sponsored-jobs-2027) |
+| **Target** | Seasonal Full Time Hourly Warehouse Operations Openings (T3801) | Midlothian, TX | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000447602?s=gh-visa-sponsored-jobs-2027) |
+| **Target** | Full Time Hourly Warehouse Operations Openings - - $1,000 SIGN ON BONUS (T0557) | Oconomowoc, WI | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000453974?s=gh-visa-sponsored-jobs-2027) |
+| **Target** | Full Time Hourly Warehouse Operations (T3808) | Midway, GA | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000447565?s=gh-visa-sponsored-jobs-2027) |
 | **Applied Materials** | Process Support Engineer III | Phoenix,AZ | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-amat-external-R2631623?s=gh-visa-sponsored-jobs-2027) |
 | **Applied Materials** | Process Support Engineer III | Phoenix,AZ | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-amat-external-R2634056?s=gh-visa-sponsored-jobs-2027) |
 | **Microsoft** | Customer Success Account Mgmt | United States | 11h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200058856?s=gh-visa-sponsored-jobs-2027) |
@@ -620,33 +620,33 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Target** | Full Time Hourly Warehouse Worker Openings - $1,000 SIGN ON BONUS (T0590) | Cedar Falls, IA | 5m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000453972?s=gh-visa-sponsored-jobs-2027) |
-| **Target** | Warehouse Worker - Food Distribution Center (T3727) | Thornton, CO | 5m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000447577?s=gh-visa-sponsored-jobs-2027) |
-| **Target** | Warehouse Worker - Food Distribution Center (T3735) | Windsor, CT | 5m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000447598?s=gh-visa-sponsored-jobs-2027) |
-| **ABB** | Electro‑Mechanical Assembler | USA, NJ, Hackettstown | 5m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abb-external-career-page-JR00051236?s=gh-visa-sponsored-jobs-2027) |
-| **Fresenius Medical Care** | Patient Care Technician - PCT | Baton Rouge, LA | 5m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0273542?s=gh-visa-sponsored-jobs-2027) |
-| **Fresenius Medical Care** | Patient Care Technician - PCT | Chicago, IL | 5m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0258575?s=gh-visa-sponsored-jobs-2027) |
-| **Apple** | US - Specialist: Seasonal, Part-time | United States | 10m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-114438158?s=gh-visa-sponsored-jobs-2027) |
-| **NREL** | Postdoctoral Researcher - Power Electronics | Golden, CO | 25m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nrel-nlr-R14606?s=gh-visa-sponsored-jobs-2027) |
-| **Magna** | Aluminum TIG Welder | Spartanburg, South Carolina, US | 25m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-magna-magna-R00252527?s=gh-visa-sponsored-jobs-2027) |
-| **Capital One** | Full-stack Engineer 4 | New York, NY | 25m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-capitalone-capital-one-R1003027?s=gh-visa-sponsored-jobs-2027) |
-| **Capital One** | Full-stack Engineer 4 | McLean, VA | 25m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-capitalone-capital-one-R1001256?s=gh-visa-sponsored-jobs-2027) |
-| **Capital One** | Full-stack Engineer 4 | McLean, VA | 25m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-capitalone-capital-one-R1001253?s=gh-visa-sponsored-jobs-2027) |
-| **Hitachi** | Master Production Scheduler | South Boston, Virginia, United... | 45m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hitachi-hitachi-R0153042?s=gh-visa-sponsored-jobs-2027) |
-| **LabCorp** | Phlebotomist PRN / Casual | Phoenix AZ | 45m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2639778?s=gh-visa-sponsored-jobs-2027) |
-| **LabCorp** | Phlebotomist PRN / Casual | Tucson AZ | 45m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2641100?s=gh-visa-sponsored-jobs-2027) |
-| **LabCorp** | Phlebotomist PRN / Casual | Phoenix AZ | 45m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2639590?s=gh-visa-sponsored-jobs-2027) |
-| **Wells Fargo** | Tele Sales Specialist - Merchant Services | TEMPE, AZ | 54m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-wf-wellsfargojobs-R-574709?s=gh-visa-sponsored-jobs-2027) |
-| **Highmark Health** | Sterile Processing Technician Associate / Teamsters JH | Jefferson Hills PA, 15025, 565... | 54m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J291576?s=gh-visa-sponsored-jobs-2027) |
-| **KBR** | Area Process Engineer | Basra, Al Başrah, Iraq | 55m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kbr-kbr-careers-R2131956?s=gh-visa-sponsored-jobs-2027) |
-| **Live Nation** | Venue Off Duty Officer | Louisville, KY, USA | 55m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-livenation-lnexternalsite-JR-94411?s=gh-visa-sponsored-jobs-2027) |
-| **Kroger** | Cashier | Arvada, CO, United States | 58m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-kroger-255711?s=gh-visa-sponsored-jobs-2027) |
-| **Kroger** | Online Grocery Pick-Up Clerk | Arvada, CO, United States | 58m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-kroger-255714?s=gh-visa-sponsored-jobs-2027) |
-| **Kroger** | PHARMACY/TECHNICIAN | Durango, CO, United States | 58m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-kroger-255709?s=gh-visa-sponsored-jobs-2027) |
-| **Ascension** | Registered Nurse Neuro ICU | Milwaukee, WI | 58m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-1236754?s=gh-visa-sponsored-jobs-2027) |
-| **Ascension** | Registered Nurse Mother Baby | Nashville, TN | 58m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-24731?s=gh-visa-sponsored-jobs-2027) |
-| **Ascension** | Registered Nurse Medical ICU | Wichita, KS | 58m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-27482?s=gh-visa-sponsored-jobs-2027) |
-| **UPS** | Seasonal Warehouse Worker - Package Handler | Marion, Ohio | 58m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ups-40b59563-3b83-4cc8-a161-5be92270e74a?s=gh-visa-sponsored-jobs-2027) |
+| **Target** | Full Time Hourly Warehouse Worker Openings - $1,000 SIGN ON BONUS (T0590) | Cedar Falls, IA | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000453972?s=gh-visa-sponsored-jobs-2027) |
+| **Target** | Warehouse Worker - Food Distribution Center (T3727) | Thornton, CO | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000447577?s=gh-visa-sponsored-jobs-2027) |
+| **Target** | Warehouse Worker - Food Distribution Center (T3735) | Windsor, CT | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000447598?s=gh-visa-sponsored-jobs-2027) |
+| **ABB** | Electro‑Mechanical Assembler | USA, NJ, Hackettstown | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abb-external-career-page-JR00051236?s=gh-visa-sponsored-jobs-2027) |
+| **Fresenius Medical Care** | Patient Care Technician - PCT | Baton Rouge, LA | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0273542?s=gh-visa-sponsored-jobs-2027) |
+| **Fresenius Medical Care** | Patient Care Technician - PCT | Chicago, IL | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0258575?s=gh-visa-sponsored-jobs-2027) |
+| **Apple** | US - Specialist: Seasonal, Part-time | United States | 19m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-114438158?s=gh-visa-sponsored-jobs-2027) |
+| **NREL** | Postdoctoral Researcher - Power Electronics | Golden, CO | 34m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nrel-nlr-R14606?s=gh-visa-sponsored-jobs-2027) |
+| **Magna** | Aluminum TIG Welder | Spartanburg, South Carolina, US | 34m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-magna-magna-R00252527?s=gh-visa-sponsored-jobs-2027) |
+| **Capital One** | Full-stack Engineer 4 | New York, NY | 34m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-capitalone-capital-one-R1003027?s=gh-visa-sponsored-jobs-2027) |
+| **Capital One** | Full-stack Engineer 4 | McLean, VA | 34m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-capitalone-capital-one-R1001256?s=gh-visa-sponsored-jobs-2027) |
+| **Capital One** | Full-stack Engineer 4 | McLean, VA | 34m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-capitalone-capital-one-R1001253?s=gh-visa-sponsored-jobs-2027) |
+| **Hitachi** | Master Production Scheduler | South Boston, Virginia, United... | 53m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hitachi-hitachi-R0153042?s=gh-visa-sponsored-jobs-2027) |
+| **LabCorp** | Phlebotomist PRN / Casual | Phoenix AZ | 54m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2639778?s=gh-visa-sponsored-jobs-2027) |
+| **LabCorp** | Phlebotomist PRN / Casual | Tucson AZ | 54m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2641100?s=gh-visa-sponsored-jobs-2027) |
+| **LabCorp** | Phlebotomist PRN / Casual | Phoenix AZ | 54m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2639590?s=gh-visa-sponsored-jobs-2027) |
+| **Wells Fargo** | Tele Sales Specialist - Merchant Services | TEMPE, AZ | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-wf-wellsfargojobs-R-574709?s=gh-visa-sponsored-jobs-2027) |
+| **Highmark Health** | Sterile Processing Technician Associate / Teamsters JH | Jefferson Hills PA, 15025, 565... | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J291576?s=gh-visa-sponsored-jobs-2027) |
+| **KBR** | Area Process Engineer | Basra, Al Başrah, Iraq | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kbr-kbr-careers-R2131956?s=gh-visa-sponsored-jobs-2027) |
+| **Live Nation** | Venue Off Duty Officer | Louisville, KY, USA | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-livenation-lnexternalsite-JR-94411?s=gh-visa-sponsored-jobs-2027) |
+| **Kroger** | Cashier | Arvada, CO, United States | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-kroger-255711?s=gh-visa-sponsored-jobs-2027) |
+| **Kroger** | Online Grocery Pick-Up Clerk | Arvada, CO, United States | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-kroger-255714?s=gh-visa-sponsored-jobs-2027) |
+| **Kroger** | PHARMACY/TECHNICIAN | Durango, CO, United States | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-kroger-255709?s=gh-visa-sponsored-jobs-2027) |
+| **Ascension** | Registered Nurse Neuro ICU | Milwaukee, WI | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-1236754?s=gh-visa-sponsored-jobs-2027) |
+| **Ascension** | Registered Nurse Mother Baby | Nashville, TN | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-24731?s=gh-visa-sponsored-jobs-2027) |
+| **Ascension** | Registered Nurse Medical ICU | Wichita, KS | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-27482?s=gh-visa-sponsored-jobs-2027) |
+| **UPS** | Seasonal Warehouse Worker - Package Handler | Marion, Ohio | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ups-40b59563-3b83-4cc8-a161-5be92270e74a?s=gh-visa-sponsored-jobs-2027) |
 | **Jabil** | Assistant Production Supervisor | Florence, KY | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jabil-jabil-careers-J2470631?s=gh-visa-sponsored-jobs-2027) |
 | **Jabil** | Assistant Production Supervisor | Florence, KY | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jabil-jabil-careers-J2470630?s=gh-visa-sponsored-jobs-2027) |
 | **Jabil** | Assistant Production Supervisor | Florence, KY | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jabil-jabil-careers-J2470629?s=gh-visa-sponsored-jobs-2027) |
