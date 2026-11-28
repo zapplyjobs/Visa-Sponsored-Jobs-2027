@@ -398,7 +398,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Brown & Brown Insurance** | Claims System Liaison | Carmel, IN, USA | 20m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000003326?s=gh-visa-sponsored-jobs-2027) |
+| **Brown & Brown Insurance** | Claims System Liaison | Carmel, IN, USA | 26m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000003326?s=gh-visa-sponsored-jobs-2027) |
 | **Wells Fargo** | Bilingual Spanish Personal Banker   The Haight | SAN FRANCISCO, CA | 1h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-wf-wellsfargojobs-R-586007?s=gh-visa-sponsored-jobs-2027) |
 | **Wells Fargo** | Personal Banker Omaha Main | OMAHA, NE | 1h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-wf-wellsfargojobs-R-588309?s=gh-visa-sponsored-jobs-2027) |
 | **Lowe's** | Part Time - Fulfillment Associate - Flexible | Charlotte, NC (E Charlotte) 1920 | 1h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02712772?s=gh-visa-sponsored-jobs-2027) |
@@ -412,7 +412,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **BMO** | Retail Relationship Banker | Valencia, CA, USA | 2h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-bmo-external-R260028471?s=gh-visa-sponsored-jobs-2027) |
 | **BMO** | Retail Relationship Banker | Irvine, CA, USA | 2h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-bmo-external-R260032793?s=gh-visa-sponsored-jobs-2027) |
 | **BMO** | Retail Relationship Banker | Mission Viejo, CA, USA | 2h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-bmo-external-R260032783?s=gh-visa-sponsored-jobs-2027) |
-| **CVS Health** | Clinical Claims Review Nurse (Remote) | ND - Work from home | 2h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1096025?s=gh-visa-sponsored-jobs-2027) |
+| **CVS Health** | Clinical Claims Review Nurse (Remote) | ND - Work from home | 3h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1096025?s=gh-visa-sponsored-jobs-2027) |
 | **S&P Global** | Energy Industry Fundamentals Training Instructor (AMERICAS) | Houston, TX | 3h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-spgi-spgi-careers-332972?s=gh-visa-sponsored-jobs-2027) |
 | **Santander** | Banking Center Relationship Banker 2, Grassy Sprain, Yonkers, NY | BC Yonkers Grassy Sprain | 3h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-santander-santandercareers-Req1637124?s=gh-visa-sponsored-jobs-2027) |
 | **Santander** | Wealth Trainee | Miami | 3h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-santander-santandercareers-Req1635353?s=gh-visa-sponsored-jobs-2027) |
@@ -620,14 +620,14 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Amentum** | Automotive Worker, CDL (PREPO) | LA-Fort Polk | 4m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0175975?s=gh-visa-sponsored-jobs-2027) |
-| **Amentum** | Automotive Worker (OGM 1st Shift) | LA-Fort Polk | 4m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0175972?s=gh-visa-sponsored-jobs-2027) |
-| **Amentum** | Automotive Worker (PREPO) | LA-Fort Polk | 4m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0175970?s=gh-visa-sponsored-jobs-2027) |
-| **CVS Health** | Pharmacy Technician | FL - North Miami | 5m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1115599?s=gh-visa-sponsored-jobs-2027) |
-| **Apple** | US - Specialist | United States | 12m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/apple-114438158?s=gh-visa-sponsored-jobs-2027) |
-| **Brown & Brown Insurance** | Commercial Lines Account Manager | Syracuse, NY, USA | 20m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000003914?s=gh-visa-sponsored-jobs-2027) |
-| **Brown & Brown Insurance** | Customer Service Representative | Cleveland, OH, USA | 20m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000003564?s=gh-visa-sponsored-jobs-2027) |
-| **Brown & Brown Insurance** | Employee Benefits Producer | Manassas, VA, USA | 20m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000003930?s=gh-visa-sponsored-jobs-2027) |
+| **Amentum** | Automotive Worker, CDL (PREPO) | LA-Fort Polk | 10m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0175975?s=gh-visa-sponsored-jobs-2027) |
+| **Amentum** | Automotive Worker (OGM 1st Shift) | LA-Fort Polk | 10m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0175972?s=gh-visa-sponsored-jobs-2027) |
+| **Amentum** | Automotive Worker (PREPO) | LA-Fort Polk | 10m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0175970?s=gh-visa-sponsored-jobs-2027) |
+| **CVS Health** | Pharmacy Technician | FL - North Miami | 11m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1115599?s=gh-visa-sponsored-jobs-2027) |
+| **Apple** | US - Specialist | United States | 18m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/apple-114438158?s=gh-visa-sponsored-jobs-2027) |
+| **Brown & Brown Insurance** | Commercial Lines Account Manager | Syracuse, NY, USA | 26m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000003914?s=gh-visa-sponsored-jobs-2027) |
+| **Brown & Brown Insurance** | Customer Service Representative | Cleveland, OH, USA | 26m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000003564?s=gh-visa-sponsored-jobs-2027) |
+| **Brown & Brown Insurance** | Employee Benefits Producer | Manassas, VA, USA | 26m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000003930?s=gh-visa-sponsored-jobs-2027) |
 | **Wells Fargo** | Personal Banker Sacramento Capital District | SACRAMENTO, CA | 1h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-wf-wellsfargojobs-R-589672?s=gh-visa-sponsored-jobs-2027) |
 | **Wells Fargo** | 32 Hour Teller   Laurel | SAN FRANCISCO, CA | 1h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-wf-wellsfargojobs-R-589390?s=gh-visa-sponsored-jobs-2027) |
 | **Wells Fargo** | Part Time Teller   Bayview Hunter's Point | SAN FRANCISCO, CA | 1h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-wf-wellsfargojobs-R-586786?s=gh-visa-sponsored-jobs-2027) |
@@ -661,8 +661,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **LabCorp** | Clinical Laboratory Technologist | Appleton WI | 2h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2642038?s=gh-visa-sponsored-jobs-2027) |
 | **Baker Hughes** | GTS - Junior FSE - Control Systems | TX OTHER TEXAS | 2h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-bakerhughes-bakerhughes-R172730?s=gh-visa-sponsored-jobs-2027) |
 | **Ameriprise Financial** | Client Concierge | Warrenville, Illinois | 2h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-ameriprise-ameriprise-R26_4695?s=gh-visa-sponsored-jobs-2027) |
-| **CVS Health** | Store Associate Rx | NY - Amherst | 2h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1111633?s=gh-visa-sponsored-jobs-2027) |
-| **CVS Health** | Store Associate RX | CA - Rancho Cordova | 2h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1115867?s=gh-visa-sponsored-jobs-2027) |
+| **CVS Health** | Store Associate Rx | NY - Amherst | 3h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1111633?s=gh-visa-sponsored-jobs-2027) |
+| **CVS Health** | Store Associate RX | CA - Rancho Cordova | 3h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1115867?s=gh-visa-sponsored-jobs-2027) |
 | **S&P Global** | Sponsorship Account Manager | New York, NY | 3h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-spgi-spgi-careers-332962?s=gh-visa-sponsored-jobs-2027) |
 | **Ciena** | Executive Technology & Service Enablement Associate | Baltimore | 3h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-ciena-careers-R031969?s=gh-visa-sponsored-jobs-2027) |
 | **Transamerica** | Bilingual Rep Relations Specialist (Call Center: French or Spanish) | Work From Home, USA | 3h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-transamerica-us-R20063297?s=gh-visa-sponsored-jobs-2027) |
@@ -710,7 +710,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **ByteDance** | Fashion Vertical Content Operation Project Intern (Lemon8 US) - 2027 Start | New York, New York | Date unknown | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/bytedance-7712328735974574341?s=gh-visa-sponsored-jobs-2027) |
 | **AMD** | RTL & IP Design Engineer | San Jose, CA, United States | 14h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/amd-87103?s=gh-visa-sponsored-jobs-2027) |
 | **Bosch Group** | Design Engineer | Pineville, NC | 14h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/sr-BoschGroup-744000164083569?s=gh-visa-sponsored-jobs-2027) |
-| **AMD** | Firmware Engineer | Austin, TX, United States | 17h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/amd-103853?s=gh-visa-sponsored-jobs-2027) |
+| **AMD** | Firmware Engineer | Austin, TX, United States | 18h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/amd-103853?s=gh-visa-sponsored-jobs-2027) |
 | **Cox** | Entry Level Mobile Diesel Mechanic | San Diego CA | 19h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-cox-cox-external-career-site-1-R202685340?s=gh-visa-sponsored-jobs-2027) |
 | **ElevenLabs** | Workplace Experience - New York | New York | 21h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/ashby-elevenlabs-d2443707-b19e-49c2-b2ec-de0c4c889089?s=gh-visa-sponsored-jobs-2027) |
 | **AES Corporation** | Co-op - T&D standards Power Systems - (Fall 2027) | Dayton, OH | 1d | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-aes-aes-us-R1064780?s=gh-visa-sponsored-jobs-2027) |
